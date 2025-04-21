@@ -1927,3 +1927,4 @@ D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\refint\Vivita.dll
 D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\Vivita.pdb
 D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\Vivita.genruntimeconfig.cache
 D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\ref\Vivita.dll
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\Vivita.sourcelink.json

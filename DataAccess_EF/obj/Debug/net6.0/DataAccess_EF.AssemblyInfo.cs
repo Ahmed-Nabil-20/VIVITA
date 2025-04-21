@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataAccess_EF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4bea222c8dc849891b6a732cc637833c266195df")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataAccess_EF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataAccess_EF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
