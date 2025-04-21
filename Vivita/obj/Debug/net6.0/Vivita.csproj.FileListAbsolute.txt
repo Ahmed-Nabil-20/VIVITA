@@ -1,0 +1,1929 @@
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\Vivita.csproj.AssemblyReference.cache
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\Vivita.GeneratedMSBuildEditorConfig.editorconfig
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\Vivita.AssemblyInfoInputs.cache
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\Vivita.AssemblyInfo.cs
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\Vivita.csproj.CoreCompileInputs.cache
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\Vivita.MvcApplicationPartsAssemblyInfo.cs
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\Vivita.MvcApplicationPartsAssemblyInfo.cache
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\Vivita.RazorAssemblyInfo.cache
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\Vivita.RazorAssemblyInfo.cs
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\appsettings.Development.json
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\appsettings.json
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Vivita.staticwebassets.runtime.json
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Vivita.staticwebassets.endpoints.json
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Vivita.exe
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Vivita.deps.json
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Vivita.runtimeconfig.json
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Vivita.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Vivita.pdb
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\mscorlib.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\netstandard.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.AppContext.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Buffers.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Collections.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.ComponentModel.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Configuration.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Console.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Core.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Data.Common.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Data.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Drawing.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Globalization.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.Compression.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Linq.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Memory.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.Http.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.Mail.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.Ping.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.Requests.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.Security.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Numerics.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.ObjectModel.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Reflection.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Security.Claims.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Security.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Security.Principal.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Text.Json.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Threading.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Transactions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.ValueTuple.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Web.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Windows.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Xml.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\refs\WindowsBase.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\cloudscribe.Pagination.Models.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\cloudscribe.Web.Pagination.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Hangfire.AspNetCore.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Hangfire.Core.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Hangfire.NetCore.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Hangfire.SqlServer.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Humanizer.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\MessagePack.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.WebEncoders.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\NuGet.Common.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\RestSharp.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\System.Collections.Immutable.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\System.Formats.Asn1.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\System.Text.Json.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\ca\Hangfire.Core.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\de\Hangfire.Core.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\es\Hangfire.Core.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\fa\Hangfire.Core.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\fr\Hangfire.Core.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\nb\Hangfire.Core.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\nl\Hangfire.Core.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\pt-BR\Hangfire.Core.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\pt-PT\Hangfire.Core.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\pt\Hangfire.Core.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\sv\Hangfire.Core.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\tr-TR\Hangfire.Core.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\zh-TW\Hangfire.Core.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\zh\Hangfire.Core.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\af\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\ar\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\az\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\bg\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\cs\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\da\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\de\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\el\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\es\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\fa\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\fr\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\he\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\hr\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\hu\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\hy\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\id\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\is\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\it\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\ja\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\ku\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\lv\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\mt\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\nb\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\nl\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\pl\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\pt\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\ro\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\ru\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\sk\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\sl\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\sr\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\sv\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\tr\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\uk\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\vi\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\DataAccess_EF.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Domain.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Services.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Utility.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\DataAccess_EF.pdb
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Domain.pdb
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Services.pdb
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Utility.pdb
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\scopedcss\bundle\Vivita.styles.css
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\scopedcss\projectbundle\Vivita.bundle.scp.css
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\staticwebassets.build.json
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\staticwebassets.development.json
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\staticwebassets\msbuild.Vivita.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\staticwebassets\msbuild.Vivita.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\staticwebassets\msbuild.build.Vivita.props
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Vivita.props
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Vivita.props
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\Vivita.csproj.Up2Date
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\Vivita.dll
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\refint\Vivita.dll
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\Vivita.pdb
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\Vivita.genruntimeconfig.cache
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\ref\Vivita.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\ar\Vivita.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\Vivita.Resources.Views.Account.Login.resources
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\Vivita.Resources.Views.Account.Register.resources
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\Vivita.Resources.Views.Home.Index.resources
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\Vivita.Resources.Views.Model.Index.resources
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\Vivita.Resources.Views.Profile.Index.resources
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\Vivita.Resources.Views.Shared._Layout.resources
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\Vivita.Resources.Views.Account.Login.ar.resources
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\Vivita.Resources.Views.Account.Register.ar.resources
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\Vivita.Resources.Views.Home.Index.ar.resources
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\Vivita.Resources.Views.Model.Index.ar.resources
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\Vivita.Resources.Views.Profile.Index.ar.resources
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\Vivita.Resources.Views.Shared._Layout.ar.resources
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\Vivita.csproj.GenerateResource.cache
+E:\Asp.net Projects\Vivita\Vivita\obj\Debug\net6.0\ar\Vivita.resources.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Google.Protobuf.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.ML.Core.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.ML.Data.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.ML.KMeansClustering.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.ML.PCA.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.ML.StandardTrainers.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.ML.Transforms.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.ML.CpuMath.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.ML.DataView.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.ML.OnnxRuntime.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\Microsoft.ML.OnnxTransformer.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\System.CodeDom.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\System.Numerics.Tensors.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\System.Threading.Channels.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\linux-arm\native\libLdaNative.so
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\linux-arm\native\libLdaNative.so.dbg
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\linux-arm64\native\libLdaNative.so
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\linux-arm64\native\libLdaNative.so.dbg
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\linux-x64\native\libLdaNative.so
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\linux-x64\native\libLdaNative.so.dbg
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\osx-arm64\native\libLdaNative.dylib
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\osx-arm64\native\libLdaNative.dylib.dwarf
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\osx-x64\native\libLdaNative.dylib
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\osx-x64\native\libLdaNative.dylib.dwarf
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-arm64\native\LdaNative.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-x64\native\LdaNative.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-x86\native\LdaNative.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\android\native\onnxruntime.aar
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\ios\native\onnxruntime.xcframework.zip
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\linux-arm64\native\libonnxruntime.so
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\linux-arm64\native\libonnxruntime_providers_shared.so
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\linux-x64\native\libonnxruntime.so
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\linux-x64\native\libonnxruntime_providers_shared.so
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\osx-arm64\native\libonnxruntime.dylib
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\osx-x64\native\libonnxruntime.dylib
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-arm64\native\onnxruntime.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-arm64\native\onnxruntime.lib
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-arm64\native\onnxruntime_providers_shared.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-arm64\native\onnxruntime_providers_shared.lib
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-x64\native\onnxruntime.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-x64\native\onnxruntime.lib
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-x64\native\onnxruntime_providers_shared.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-x64\native\onnxruntime_providers_shared.lib
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-x86\native\onnxruntime.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-x86\native\onnxruntime.lib
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-x86\native\onnxruntime_providers_shared.dll
+E:\Asp.net Projects\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-x86\native\onnxruntime_providers_shared.lib
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\appsettings.json
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Vivita.staticwebassets.endpoints.json
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Vivita.staticwebassets.runtime.json
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Vivita.exe
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Vivita.deps.json
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Vivita.runtimeconfig.json
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Vivita.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Vivita.pdb
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\ar\Vivita.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\mscorlib.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\netstandard.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.AppContext.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Buffers.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Collections.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.ComponentModel.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Configuration.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Console.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Core.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Data.Common.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Data.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Drawing.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Globalization.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.Compression.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Linq.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Memory.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.Http.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.Mail.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.Ping.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.Requests.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.Security.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Numerics.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.ObjectModel.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Reflection.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Security.Claims.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Security.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Security.Principal.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Text.Json.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Threading.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Transactions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.ValueTuple.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Web.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Windows.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Xml.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\refs\WindowsBase.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\cloudscribe.Pagination.Models.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\cloudscribe.Web.Pagination.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Hangfire.AspNetCore.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Hangfire.Core.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Hangfire.NetCore.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Hangfire.SqlServer.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\MessagePack.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.WebEncoders.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.ML.Core.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.ML.Data.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.ML.KMeansClustering.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.ML.PCA.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.ML.StandardTrainers.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.ML.Transforms.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.ML.CpuMath.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.ML.DataView.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.ML.OnnxRuntime.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.ML.OnnxTransformer.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\RestSharp.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\System.Numerics.Tensors.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\ca\Hangfire.Core.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\de\Hangfire.Core.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\es\Hangfire.Core.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\fa\Hangfire.Core.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\fr\Hangfire.Core.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\nb\Hangfire.Core.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\nl\Hangfire.Core.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\pt-BR\Hangfire.Core.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\pt-PT\Hangfire.Core.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\pt\Hangfire.Core.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\sv\Hangfire.Core.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\tr-TR\Hangfire.Core.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\zh-TW\Hangfire.Core.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\zh\Hangfire.Core.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\linux-arm\native\libLdaNative.so
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\linux-arm\native\libLdaNative.so.dbg
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\linux-arm64\native\libLdaNative.so
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\linux-arm64\native\libLdaNative.so.dbg
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\linux-x64\native\libLdaNative.so.dbg
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\osx-arm64\native\libLdaNative.dylib
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\osx-arm64\native\libLdaNative.dylib.dwarf
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\osx-x64\native\libLdaNative.dylib.dwarf
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-arm64\native\LdaNative.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-x64\native\LdaNative.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-x86\native\LdaNative.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\android\native\onnxruntime.aar
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\ios\native\onnxruntime.xcframework.zip
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\linux-arm64\native\libonnxruntime.so
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\linux-arm64\native\libonnxruntime_providers_shared.so
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\linux-x64\native\libonnxruntime.so
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\linux-x64\native\libonnxruntime_providers_shared.so
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\osx-arm64\native\libonnxruntime.dylib
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\osx-x64\native\libonnxruntime.dylib
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-arm64\native\onnxruntime.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-arm64\native\onnxruntime.lib
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-arm64\native\onnxruntime_providers_shared.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-arm64\native\onnxruntime_providers_shared.lib
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-x64\native\onnxruntime.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-x64\native\onnxruntime.lib
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-x64\native\onnxruntime_providers_shared.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-x64\native\onnxruntime_providers_shared.lib
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-x86\native\onnxruntime.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-x86\native\onnxruntime.lib
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-x86\native\onnxruntime_providers_shared.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-x86\native\onnxruntime_providers_shared.lib
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\DataAccess_EF.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Domain.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Services.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Utility.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\DataAccess_EF.pdb
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Domain.pdb
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Services.pdb
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\bin\Debug\net6.0\Utility.pdb
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\Vivita.csproj.AssemblyReference.cache
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\Vivita.Resources.Views.Account.Login.resources
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\Vivita.Resources.Views.Account.Register.resources
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\Vivita.Resources.Views.Home.Index.resources
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\Vivita.Resources.Views.Model.Index.resources
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\Vivita.Resources.Views.Profile.Index.resources
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\Vivita.Resources.Views.Shared._Layout.resources
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\Vivita.Resources.Views.Account.Login.ar.resources
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\Vivita.Resources.Views.Account.Register.ar.resources
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\Vivita.Resources.Views.Home.Index.ar.resources
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\Vivita.Resources.Views.Model.Index.ar.resources
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\Vivita.Resources.Views.Profile.Index.ar.resources
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\Vivita.Resources.Views.Shared._Layout.ar.resources
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\Vivita.csproj.GenerateResource.cache
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\Vivita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\Vivita.AssemblyInfoInputs.cache
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\Vivita.AssemblyInfo.cs
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\Vivita.csproj.CoreCompileInputs.cache
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\Vivita.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\Vivita.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\Vivita.RazorAssemblyInfo.cache
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\Vivita.RazorAssemblyInfo.cs
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\ar\Vivita.resources.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\scopedcss\bundle\Vivita.styles.css
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\scopedcss\projectbundle\Vivita.bundle.scp.css
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\staticwebassets\msbuild.Vivita.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\staticwebassets\msbuild.Vivita.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\staticwebassets\msbuild.build.Vivita.props
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Vivita.props
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Vivita.props
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\Vivita.csproj.Up2Date
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\Vivita.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\refint\Vivita.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\Vivita.pdb
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\Vivita.genruntimeconfig.cache
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Vivita\obj\Debug\net6.0\ref\Vivita.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\appsettings.Development.json
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\appsettings.json
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Vivita.staticwebassets.endpoints.json
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Vivita.staticwebassets.runtime.json
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Vivita.exe
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Vivita.deps.json
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Vivita.runtimeconfig.json
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Vivita.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Vivita.pdb
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\ar\Vivita.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\mscorlib.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\netstandard.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.AppContext.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Buffers.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Collections.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.ComponentModel.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Configuration.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Console.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Core.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Data.Common.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Data.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Drawing.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Globalization.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.Compression.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Linq.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Memory.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.Http.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.Mail.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.Ping.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.Requests.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.Security.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Numerics.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.ObjectModel.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Reflection.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Security.Claims.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Security.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Security.Principal.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Text.Json.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Threading.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Transactions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.ValueTuple.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Web.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Windows.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Xml.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\refs\WindowsBase.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\cloudscribe.Pagination.Models.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\cloudscribe.Web.Pagination.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Google.Protobuf.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Hangfire.AspNetCore.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Hangfire.Core.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Hangfire.NetCore.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Hangfire.SqlServer.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Humanizer.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\MessagePack.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Extensions.WebEncoders.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.ML.Core.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.ML.Data.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.ML.KMeansClustering.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.ML.PCA.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.ML.StandardTrainers.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.ML.Transforms.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.ML.CpuMath.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.ML.DataView.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.ML.OnnxRuntime.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.ML.OnnxTransformer.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\NuGet.Common.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\RestSharp.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\System.CodeDom.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\System.Numerics.Tensors.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\System.Text.Json.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\System.Threading.Channels.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\ca\Hangfire.Core.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\de\Hangfire.Core.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\es\Hangfire.Core.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\fa\Hangfire.Core.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\fr\Hangfire.Core.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\nb\Hangfire.Core.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\nl\Hangfire.Core.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\pt-BR\Hangfire.Core.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\pt-PT\Hangfire.Core.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\pt\Hangfire.Core.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\sv\Hangfire.Core.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\tr-TR\Hangfire.Core.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\zh-TW\Hangfire.Core.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\zh\Hangfire.Core.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\linux-arm\native\libLdaNative.so
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\linux-arm\native\libLdaNative.so.dbg
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\linux-arm64\native\libLdaNative.so
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\linux-arm64\native\libLdaNative.so.dbg
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\linux-x64\native\libLdaNative.so
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\linux-x64\native\libLdaNative.so.dbg
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\osx-arm64\native\libLdaNative.dylib
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\osx-arm64\native\libLdaNative.dylib.dwarf
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\osx-x64\native\libLdaNative.dylib
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\osx-x64\native\libLdaNative.dylib.dwarf
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-arm64\native\LdaNative.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-x64\native\LdaNative.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-x86\native\LdaNative.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\android\native\onnxruntime.aar
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\ios\native\onnxruntime.xcframework.zip
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\linux-arm64\native\libonnxruntime.so
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\linux-arm64\native\libonnxruntime_providers_shared.so
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\linux-x64\native\libonnxruntime.so
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\linux-x64\native\libonnxruntime_providers_shared.so
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\osx-arm64\native\libonnxruntime.dylib
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\osx-x64\native\libonnxruntime.dylib
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-arm64\native\onnxruntime.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-arm64\native\onnxruntime.lib
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-arm64\native\onnxruntime_providers_shared.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-arm64\native\onnxruntime_providers_shared.lib
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-x64\native\onnxruntime.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-x64\native\onnxruntime.lib
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-x64\native\onnxruntime_providers_shared.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-x64\native\onnxruntime_providers_shared.lib
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-x86\native\onnxruntime.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-x86\native\onnxruntime.lib
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-x86\native\onnxruntime_providers_shared.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\win-x86\native\onnxruntime_providers_shared.lib
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\DataAccess_EF.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Domain.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Services.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Utility.dll
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\DataAccess_EF.pdb
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Domain.pdb
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Services.pdb
+D:\IT\Project\Vivita\Vivita\bin\Debug\net6.0\Utility.pdb
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\Vivita.csproj.AssemblyReference.cache
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\Vivita.Resources.Views.Account.Login.resources
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\Vivita.Resources.Views.Account.Register.resources
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\Vivita.Resources.Views.Home.Index.resources
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\Vivita.Resources.Views.Model.Index.resources
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\Vivita.Resources.Views.Profile.Index.resources
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\Vivita.Resources.Views.Shared._Layout.resources
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\Vivita.Resources.Views.Account.Login.ar.resources
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\Vivita.Resources.Views.Account.Register.ar.resources
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\Vivita.Resources.Views.Home.Index.ar.resources
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\Vivita.Resources.Views.Model.Index.ar.resources
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\Vivita.Resources.Views.Profile.Index.ar.resources
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\Vivita.Resources.Views.Shared._Layout.ar.resources
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\Vivita.csproj.GenerateResource.cache
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\Vivita.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\Vivita.AssemblyInfoInputs.cache
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\Vivita.AssemblyInfo.cs
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\Vivita.csproj.CoreCompileInputs.cache
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\Vivita.MvcApplicationPartsAssemblyInfo.cs
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\Vivita.MvcApplicationPartsAssemblyInfo.cache
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\Vivita.RazorAssemblyInfo.cache
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\Vivita.RazorAssemblyInfo.cs
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\ar\Vivita.resources.dll
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\scopedcss\bundle\Vivita.styles.css
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\scopedcss\projectbundle\Vivita.bundle.scp.css
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\staticwebassets.build.json
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\staticwebassets.development.json
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\staticwebassets\msbuild.Vivita.Microsoft.AspNetCore.StaticWebAssets.props
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\staticwebassets\msbuild.Vivita.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\staticwebassets\msbuild.build.Vivita.props
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Vivita.props
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Vivita.props
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\staticwebassets.pack.json
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\Vivita.csproj.Up2Date
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\Vivita.dll
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\refint\Vivita.dll
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\Vivita.pdb
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\Vivita.genruntimeconfig.cache
+D:\IT\Project\Vivita\Vivita\obj\Debug\net6.0\ref\Vivita.dll

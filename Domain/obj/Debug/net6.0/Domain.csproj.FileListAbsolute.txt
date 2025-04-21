@@ -1,0 +1,37 @@
+E:\Asp.net Projects\Vivita\Domain\bin\Debug\net6.0\Domain.deps.json
+E:\Asp.net Projects\Vivita\Domain\bin\Debug\net6.0\Domain.dll
+E:\Asp.net Projects\Vivita\Domain\bin\Debug\net6.0\Domain.pdb
+E:\Asp.net Projects\Vivita\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+E:\Asp.net Projects\Vivita\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Asp.net Projects\Vivita\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+E:\Asp.net Projects\Vivita\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+E:\Asp.net Projects\Vivita\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+E:\Asp.net Projects\Vivita\Domain\obj\Debug\net6.0\Domain.dll
+E:\Asp.net Projects\Vivita\Domain\obj\Debug\net6.0\refint\Domain.dll
+E:\Asp.net Projects\Vivita\Domain\obj\Debug\net6.0\Domain.pdb
+E:\Asp.net Projects\Vivita\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\IT\Project\Vivita\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\IT\Project\Vivita\Domain\bin\Debug\net6.0\Domain.dll
+D:\IT\Project\Vivita\Domain\bin\Debug\net6.0\Domain.pdb
+D:\IT\Project\Vivita\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\IT\Project\Vivita\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\Project\Vivita\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\IT\Project\Vivita\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\IT\Project\Vivita\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\IT\Project\Vivita\Domain\obj\Debug\net6.0\Domain.sourcelink.json
+D:\IT\Project\Vivita\Domain\obj\Debug\net6.0\Domain.dll
+D:\IT\Project\Vivita\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\IT\Project\Vivita\Domain\obj\Debug\net6.0\Domain.pdb
+D:\IT\Project\Vivita\Domain\obj\Debug\net6.0\ref\Domain.dll

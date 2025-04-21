@@ -1,0 +1,622 @@
+﻿@inject IViewLocalizer Localizer
+@model ModelPageVM
+
+@{
+    ViewData["Title"] = "Diseases Detection";
+}
+
+@section Styles {
+    <style>
+        .ajaxbg img {
+            top: 30% !important;
+        }
+
+        .pages {
+            position: relative !important;
+        }
+    </style>
+}
+
+<!-- ============ Model Start ============= -->
+<div class="model account mt-5 mb-5">
+    <div class="container">
+        <div class="row">
+
+            <!-- Start Tabs -->
+            <div class="col-lg-3 col-md-4 mb-lg-0 mb-md-0 mb-4">
+                <div class="tabs">
+                    <li class="active model_3" data-aos-delay="100" data-aos-duration="800" data-aos="zoom-in-up">
+                        @Localizer["LungCancer"]
+                    </li>
+                    <li class="model_1" data-aos-delay="100" data-aos-duration="800" data-aos="zoom-in-up">
+                        @Localizer["Parkinson"]
+                    </li>
+                </div>
+            </div>
+            <!-- End Tabs -->
+            <!-- Start Pages -->
+            <div class="col-lg-9 col-md-8">
+                <div class="pages">
+                    <div class="ajaxbg d-none">
+                        <img src="~/images/giphy.gif" />
+                    </div>
+                    <!-- Start Model_3 -->
+                    <div class="hardware model_3 page active">
+                        <div class="card">
+                            <div class="card-header">
+                                @Localizer["LungCancer"]
+                            </div>
+                            <div class="card-body">
+                                <form id="lungCancer">
+                                    <div class="row">
+                                        <div class="form-group col-lg-12 mb-3">
+                                            <label class="lbl" for="patientId">@Localizer["Patient"]</label>
+                                            <select class="round w-100" id="patientId" asp-for="LungCancer.PatientId" asp-items="@(new SelectList(ViewBag.LstPatients, "Id","FullName"))">
+                                                <option value="">-- Choose Patient --</option>
+                                            </select>
+                                        </div>
+                                        <div class="form-group mb-3 col-lg-3">
+                                            <label class="lbl">@Localizer["AirPollution"]</label>
+                                            <div class='ctrl'>
+                                                <div class='ctrl__button ctrl__button--decrement'>&ndash;</div>
+                                                <div class='ctrl__counter'>
+                                                    <input asp-for="LungCancer.AirPollution" id="airPollution" class='ctrl__counter-input d-none' maxlength='10' type='text' value='0'>
+                                                    <div class='ctrl__counter-num'>0</div>
+                                                </div>
+                                                <div class='ctrl__button ctrl__button--increment'>+</div>
+                                            </div>
+                                        </div>
+                                        <div class="form-group mb-3 col-lg-3">
+                                            <label class="lbl">@Localizer["DustAllergy"]</label>
+                                            <div class='ctrl'>
+                                                <div class='ctrl__button ctrl__button--decrement decrement_ctrl_2'>&ndash;</div>
+                                                <div class='ctrl__counter counter_ctrl_2'>
+                                                    <input asp-for="LungCancer.DustAllergy" id="dustAllergy" class='ctrl__counter-input input_ctrl_2 d-none' maxlength='10' type='text' value='0'>
+                                                    <div class='ctrl__counter-num num_ctrl_2'>0</div>
+                                                </div>
+                                                <div class='ctrl__button ctrl__button--increment increment_ctrl_2'>+</div>
+                                            </div>
+                                        </div>
+                                        <div class="form-group mb-3 col-lg-3">
+                                            <label class="lbl">@Localizer["OccuPationalHazards"]</label>
+                                            <div class='ctrl'>
+                                                <div class='ctrl__button ctrl__button--decrement ctrl_3_decrement'>&ndash;</div>
+                                                <div class='ctrl__counter ctrl_3_counter'>
+                                                    <input asp-for="LungCancer.OccuPationalHazards" id="occuPationalHazards" class='ctrl__counter-input ctrl_3_input d-none' maxlength='10' type='text' value='0'>
+                                                    <div class='ctrl__counter-num ctrl_3_num'>0</div>
+                                                </div>
+                                                <div class='ctrl__button ctrl__button--increment ctrl_3_increment'>+</div>
+                                            </div>
+                                        </div>
+                                        <div class="form-group mb-3 col-lg-3">
+                                            <label class="lbl">@Localizer["GeneticRisk"]</label>
+                                            <div class='ctrl'>
+                                                <div class='ctrl__button ctrl__button--decrement ctrl_4_decrement'>&ndash;</div>
+                                                <div class='ctrl__counter ctrl_4_counter'>
+                                                    <input asp-for="LungCancer.GeneticRisk" id="geneticRisk" class='ctrl__counter-input ctrl_4_input d-none' maxlength='10' type='text' value='0'>
+                                                    <div class='ctrl__counter-num ctrl_4_num'>0</div>
+                                                </div>
+                                                <div class='ctrl__button ctrl__button--increment ctrl_4_increment'>+</div>
+                                            </div>
+                                        </div>
+                                        <div class="form-group mb-3 col-lg-3">
+                                            <label class="lbl">@Localizer["ChronicLungDisease"]</label>
+                                            <div class='ctrl'>
+                                                <div class='ctrl__button ctrl__button--decrement ctrl_5_decrement'>&ndash;</div>
+                                                <div class='ctrl__counter ctrl_5_counter'>
+                                                    <input asp-for="LungCancer.ChronicLungDisease" id="chronicLungDisease" class='ctrl__counter-input ctrl_5_input d-none' maxlength='10' type='text' value='0'>
+                                                    <div class='ctrl__counter-num ctrl_5_num'>0</div>
+                                                </div>
+                                                <div class='ctrl__button ctrl__button--increment ctrl_5_increment'>+</div>
+                                            </div>
+                                        </div>
+                                        <div class="form-group mb-3 col-lg-3">
+                                            <label class="lbl">@Localizer["BalancedDiet"]</label>
+                                            <div class='ctrl'>
+                                                <div class='ctrl__button ctrl__button--decrement ctrl_6_decrement'>&ndash;</div>
+                                                <div class='ctrl__counter ctrl_6_counter'>
+                                                    <input asp-for="LungCancer.BalancedDiet" id="balancedDiet" class='ctrl__counter-input ctrl_6_input d-none' maxlength='10' type='text' value='0'>
+                                                    <div class='ctrl__counter-num ctrl_6_num'>0</div>
+                                                </div>
+                                                <div class='ctrl__button ctrl__button--increment ctrl_6_increment'>+</div>
+                                            </div>
+                                        </div>
+                                        <div class="form-group mb-3 col-lg-3">
+                                            <label class="lbl">@Localizer["Obesity"]</label>
+                                            <div class='ctrl'>
+                                                <div class='ctrl__button ctrl__button--decrement ctrl_7_decrement'>&ndash;</div>
+                                                <div class='ctrl__counter ctrl_7_counter'>
+                                                    <input asp-for="LungCancer.Obesity" id="obesity" class='ctrl__counter-input ctrl_7_input d-none' maxlength='10' type='text' value='0'>
+                                                    <div class='ctrl__counter-num ctrl_7_num'>0</div>
+                                                </div>
+                                                <div class='ctrl__button ctrl__button--increment ctrl_7_increment'>+</div>
+                                            </div>
+                                        </div>
+                                        <div class="form-group mb-3 col-lg-3">
+                                            <label class="lbl">@Localizer["ChestPain"]</label>
+                                            <div class='ctrl'>
+                                                <div class='ctrl__button ctrl__button--decrement ctrl_8_decrement'>&ndash;</div>
+                                                <div class='ctrl__counter ctrl_8_counter'>
+                                                    <input asp-for="LungCancer.ChestPain" id="chestPain" class='ctrl__counter-input ctrl_8_input d-none' maxlength='10' type='text' value='0'>
+                                                    <div class='ctrl__counter-num ctrl_8_num'>0</div>
+                                                </div>
+                                                <div class='ctrl__button ctrl__button--increment ctrl_8_increment'>+</div>
+                                            </div>
+                                        </div>
+                                        <div class="form-group mb-3 col-lg-3">
+                                            <label class="lbl">@Localizer["CoughingofBlood"]</label>
+                                            <div class='ctrl'>
+                                                <div class='ctrl__button ctrl__button--decrement ctrl_9_decrement'>&ndash;</div>
+                                                <div class='ctrl__counter ctrl_9_counter'>
+                                                    <input asp-for="LungCancer.CoughingofBlood" id="coughingofBlood" class='ctrl__counter-input ctrl_9_input d-none' maxlength='10' type='text' value='0'>
+                                                    <div class='ctrl__counter-num ctrl_9_num'>0</div>
+                                                </div>
+                                                <div class='ctrl__button ctrl__button--increment ctrl_9_increment'>+</div>
+                                            </div>
+                                        </div>
+                                        <div class="form-group mb-3 col-lg-3">
+                                            <label class="lbl">@Localizer["Fatigue"]</label>
+                                            <div class='ctrl'>
+                                                <div class='ctrl__button ctrl__button--decrement ctrl_10_decrement'>&ndash;</div>
+                                                <div class='ctrl__counter ctrl_10_counter'>
+                                                    <input asp-for="LungCancer.Fatigue" id="fatigue" class='ctrl__counter-input ctrl_10_input d-none' maxlength='10' type='text' value='0'>
+                                                    <div class='ctrl__counter-num ctrl_10_num'>0</div>
+                                                </div>
+                                                <div class='ctrl__button ctrl__button--increment ctrl_10_increment'>+</div>
+                                            </div>
+                                        </div>
+                                        <div class="form-group mb-3 col-lg-3">
+                                            <label class="lbl">@Localizer["WeightLoss"]</label>
+                                            <div class='ctrl'>
+                                                <div class='ctrl__button ctrl__button--decrement ctrl_11_decrement'>&ndash;</div>
+                                                <div class='ctrl__counter ctrl_11_counter'>
+                                                    <input asp-for="LungCancer.WeightLoss" id="weightLoss" class='ctrl__counter-input ctrl_11_input d-none' maxlength='10' type='text' value='0'>
+                                                    <div class='ctrl__counter-num ctrl_11_num'>0</div>
+                                                </div>
+                                                <div class='ctrl__button ctrl__button--increment ctrl_11_increment'>+</div>
+                                            </div>
+                                        </div>
+                                        <div class="form-group mb-3 col-lg-3">
+                                            <label class="lbl">@Localizer["ShortnessofBreath"]</label>
+                                            <div class='ctrl'>
+                                                <div class='ctrl__button ctrl__button--decrement ctrl_12_decrement'>&ndash;</div>
+                                                <div class='ctrl__counter ctrl_12_counter'>
+                                                    <input asp-for="LungCancer.ShortnessofBreath" id="shortnessofBreath" class='ctrl__counter-input ctrl_12_input d-none' maxlength='10' type='text' value='0'>
+                                                    <div class='ctrl__counter-num ctrl_12_num'>0</div>
+                                                </div>
+                                                <div class='ctrl__button ctrl__button--increment ctrl_12_increment'>+</div>
+                                            </div>
+                                        </div>
+                                        <div class="form-group mb-3 col-lg-3">
+                                            <label class="lbl">@Localizer["Wheezing"]</label>
+                                            <div class='ctrl'>
+                                                <div class='ctrl__button ctrl__button--decrement ctrl_13_decrement'>&ndash;</div>
+                                                <div class='ctrl__counter ctrl_13_counter'>
+                                                    <input asp-for="LungCancer.Wheezing" id="wheezing" class='ctrl__counter-input ctrl_13_input d-none' maxlength='10' type='text' value='0'>
+                                                    <div class='ctrl__counter-num ctrl_13_num'>0</div>
+                                                </div>
+                                                <div class='ctrl__button ctrl__button--increment ctrl_13_increment'>+</div>
+                                            </div>
+                                        </div>
+                                        <div class="form-group mb-3 col-lg-3">
+                                            <label class="lbl">@Localizer["SwallowingDifficulty"]</label>
+                                            <div class='ctrl'>
+                                                <div class='ctrl__button ctrl__button--decrement ctrl_14_decrement'>&ndash;</div>
+                                                <div class='ctrl__counter ctrl_14_counter'>
+                                                    <input asp-for="LungCancer.SwallowingDifficulty" id="swallowingDifficulty" class='ctrl__counter-input ctrl_14_input d-none' maxlength='10' type='text' value='0'>
+                                                    <div class='ctrl__counter-num ctrl_14_num'>0</div>
+                                                </div>
+                                                <div class='ctrl__button ctrl__button--increment ctrl_14_increment'>+</div>
+                                            </div>
+                                        </div>
+                                        <div class="form-group mb-3 col-lg-3">
+                                            <label class="lbl">@Localizer["ClubbingofFingerNail"]</label>
+                                            <div class='ctrl'>
+                                                <div class='ctrl__button ctrl__button--decrement ctrl_15_decrement'>&ndash;</div>
+                                                <div class='ctrl__counter ctrl_15_counter'>
+                                                    <input asp-for="LungCancer.ClubbingofFingerNail" id="clubbingofFingerNail" class='ctrl__counter-input ctrl_15_input d-none' maxlength='10' type='text' value='0'>
+                                                    <div class='ctrl__counter-num ctrl_15_num'>0</div>
+                                                </div>
+                                                <div class='ctrl__button ctrl__button--increment ctrl_15_increment'>+</div>
+                                            </div>
+                                        </div>
+                                        <div class="form-group mb-3 col-lg-3">
+                                            <label class="lbl">@Localizer["FrequentCold"]</label>
+                                            <div class='ctrl'>
+                                                <div class='ctrl__button ctrl__button--decrement ctrl_16_decrement'>&ndash;</div>
+                                                <div class='ctrl__counter ctrl_16_counter'>
+                                                    <input asp-for="LungCancer.FrequentCold" id="frequentCold" class='ctrl__counter-input ctrl_16_input d-none' maxlength='10' type='text' value='0'>
+                                                    <div class='ctrl__counter-num ctrl_16_num'>0</div>
+                                                </div>
+                                                <div class='ctrl__button ctrl__button--increment ctrl_16_increment'>+</div>
+                                            </div>
+                                        </div>
+                                        <div class="form-group mb-3 col-lg-3">
+                                            <label class="lbl">@Localizer["DryCough"]</label>
+                                            <div class='ctrl'>
+                                                <div class='ctrl__button ctrl__button--decrement ctrl_17_decrement'>&ndash;</div>
+                                                <div class='ctrl__counter ctrl_17_counter'>
+                                                    <input asp-for="LungCancer.DryCough" id="dryCough" class='ctrl__counter-input ctrl_17_input d-none' maxlength='10' type='text' value='0'>
+                                                    <div class='ctrl__counter-num ctrl_17_num'>0</div>
+                                                </div>
+                                                <div class='ctrl__button ctrl__button--increment ctrl_17_increment'>+</div>
+                                            </div>
+                                        </div>
+                                        <div class="form-group mb-3 col-lg-3">
+                                            <label class="lbl">@Localizer["Alcoholuse"]</label>
+                                            <input type="radio" name="rdo" id="yes5" />
+                                            <input type="radio" name="rdo" id="no5" checked />
+                                            <input asp-for="LungCancer.Alcoholuse" id="alcoholuse" type="hidden" value="0" class="res">
+                                            <div class="switch sw_5">
+                                                <label class="yes yes5" for="yes5">@Localizer["Yes"]</label>
+                                                <span></span>
+                                                <label class="no no5" for="no5">@Localizer["No"]</label>
+                                            </div>
+                                        </div>
+                                        <div class="form-group mb-3 col-lg-3">
+                                            <label class="lbl">@Localizer["Smoking"]</label>
+                                            <input type="radio" name="rdo1" id="yes6" />
+                                            <input type="radio" name="rdo1" id="no6" checked />
+                                            <input asp-for="LungCancer.Smoking" id="smoking" type="hidden" value="0" class="res">
+                                            <div class="switch sw_6">
+                                                <label class="yes yes6" for="yes6">@Localizer["Yes"]</label>
+                                                <span></span>
+                                                <label class="no no6" for="no6">@Localizer["No"]</label>
+                                            </div>
+                                        </div>
+                                        <div class="form-group mb-3 col-lg-3">
+                                            <label class="lbl">@Localizer["PassiveSmoker"]</label>
+                                            <input type="radio" name="rdo2" id="yes2" />
+                                            <input type="radio" name="rdo2" id="no2" checked />
+                                            <input asp-for="LungCancer.PassiveSmoker" id="passiveSmoker" type="hidden" value="0" class="res">
+                                            <div class="switch sw_3">
+                                                <label class="yes yes2" for="yes2">@Localizer["Yes"]</label>
+                                                <span></span>
+                                                <label class="no no2" for="no2">@Localizer["No"]</label>
+                                            </div>
+                                        </div>
+                                        <div class="form-group mb-3 col-lg-3">
+                                            <label class="lbl">@Localizer["Snoring"]</label>
+                                            <input type="radio" name="rdo3" id="yes3" />
+                                            <input type="radio" name="rdo3" id="no3" checked />
+                                            <input asp-for="LungCancer.Snoring" id="snoring" type="hidden" value="0" class="res">
+                                            <div class="switch sw_4">
+                                                <label class="yes yes3" for="yes3">@Localizer["Yes"]</label>
+                                                <span></span>
+                                                <label class="no no3" for="no3">@Localizer["No"]</label>
+                                            </div>
+                                        </div>
+
+                                    </div>
+
+                                    <button type="submit" id="lungcancer" class="submit mt-3 w-100">@Localizer["Send"] <i class="fas fa-paper-plane"></i></button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Model_3 -->
+
+
+                    <!-- Start Parkinson -->
+                    <div class="hardware model_1 page">
+                        <div class="card">
+                            <div class="card-header">
+                                @Localizer["Parkinson"]
+                            </div>
+                            <div class="card-body">
+                                <form id="">
+                                    <div class="row">
+                                        <div class="form-group col-lg-12 mb-3">
+                                            <label class="lbl" for="patientId2">@Localizer["Patient"]</label>
+                                            <select class="round w-100" id="patientId2" asp-for="Parkinson.PatientId" asp-items="@(new SelectList(ViewBag.LstPatients, "Id","FullName"))">
+                                                <option value="">-- Choose Patient --</option>
+                                            </select>
+                                        </div>
+                                        <div class="form-group col-lg-3 mb-3">
+                                            <label class="lbl" for="Fo">
+                                                MDVP:Fo(Hz)
+                                           </label>
+                                            <input asp-for="Parkinson.Fo" type="number" value="0" id="Fo" placeholder="0.00" />
+                                        </div>
+                                        <div class="form-group col-lg-3 mb-3">
+                                            <label class="lbl" for="Fhi">
+                                                MDVP:Fhi(Hz)
+                                            </label>
+                                            <input asp-for="Parkinson.Fhi" type="number" value="0" id="Fhi" placeholder="0.00" />
+                                        </div>
+                                        <div class="form-group col-lg-3 mb-3">
+                                            <label class="lbl" for="Flo">
+                                                MDVP:Flo(Hz)
+                                            </label>
+                                            <input asp-for="Parkinson.Flo" type="number" value="0" id="Flo" placeholder="0.00" />
+                                        </div>
+                                        <div class="form-group col-lg-3 mb-3">
+                                            <label class="lbl" for="Jitter">
+                                                MDVP:Jitter(%)
+                                            </label>
+                                            <input asp-for="Parkinson.Jitter" type="number" value="0" id="Jitter" placeholder="0.00" />
+                                        </div>
+                                        <div class="form-group col-lg-3 mb-3">
+                                            <label class="lbl" for="JitterAbs">
+                                                MDVP:Jitter(Abs)
+                                            </label>
+                                            <input asp-for="Parkinson.JitterAbs" type="number" value="0" id="JitterAbs" placeholder="0.00" />
+                                        </div>
+                                        <div class="form-group col-lg-3 mb-3">
+                                            <label class="lbl" for="RAP">
+                                                MDVP:RAP
+                                            </label>
+                                            <input asp-for="Parkinson.RAP" type="number" value="0" id="RAP" placeholder="0.00" />
+                                        </div>
+                                        <div class="form-group col-lg-3 mb-3">
+                                            <label class="lbl" for="PPQ">
+                                                MDVP:PPQ
+                                            </label>
+                                            <input asp-for="Parkinson.PPQ" type="number" value="0" id="PPQ" placeholder="0.00" />
+                                        </div>
+                                        <div class="form-group col-lg-3 mb-3">
+                                            <label class="lbl" for="DDP">
+                                                Jitter:DDP
+                                            </label>
+                                            <input asp-for="Parkinson.DDP" type="number" value="0" id="DDP" placeholder="0.00" />
+                                        </div>
+                                        <div class="form-group col-lg-3 mb-3">
+                                            <label class="lbl" for="Shimmer">
+                                                MDVP:Shimmer
+                                            </label>
+                                            <input asp-for="Parkinson.Shimmer" type="number" value="0" id="Shimmer" placeholder="0.00" />
+                                        </div>
+                                        <div class="form-group col-lg-3 mb-3">
+                                            <label class="lbl" for="ShimmerDb">
+                                                MDVP:Shimmer(dB)
+                                            </label>
+                                            <input asp-for="Parkinson.ShimmerDb" type="number" value="0" id="ShimmerDb" placeholder="0.00" />
+                                        </div>
+                                        <div class="form-group col-lg-3 mb-3">
+                                            <label class="lbl" for="ShimmerApq3">
+                                                Shimmer:APQ3
+                                            </label>
+                                            <input asp-for="Parkinson.ShimmerApq3" type="number" value="0" id="ShimmerApq3" placeholder="0.00" />
+                                        </div>
+                                        <div class="form-group col-lg-3 mb-3">
+                                            <label class="lbl" for="ShimmerApq5">
+                                                Shimmer:APQ5
+                                            </label>
+                                            <input asp-for="Parkinson.ShimmerApq5" type="number" value="0" id="ShimmerApq5" placeholder="0.00" />
+                                        </div>
+                                        <div class="form-group col-lg-3 mb-3">
+                                            <label class="lbl" for="Apq">
+                                                MDVP:APQ
+                                            </label>
+                                            <input asp-for="Parkinson.Apq" type="number" value="0" id="Apq" placeholder="0.00" />
+                                        </div>
+                                        <div class="form-group col-lg-3 mb-3">
+                                            <label class="lbl" for="Dda">
+                                                Shimmer:DDA
+                                            </label>
+                                            <input asp-for="Parkinson.Dda" type="number" value="0" id="Dda" placeholder="0.00" />
+                                        </div>
+                                        <div class="form-group col-lg-3 mb-3">
+                                            <label class="lbl" for="Nhr">
+                                                NHR
+                                            </label>
+                                            <input asp-for="Parkinson.Nhr" type="number" value="0" id="Nhr" placeholder="0.00" />
+                                        </div>
+                                        <div class="form-group col-lg-3 mb-3">
+                                            <label class="lbl" for="Hnr">
+                                                HNR
+                                            </label>
+                                            <input asp-for="Parkinson.Hnr" type="number" value="0" id="Hnr" placeholder="0.00" />
+                                        </div>
+                                        <div class="form-group col-lg-3 mb-3">
+                                            <label class="lbl" for="Rpde">
+                                                RPDE
+                                            </label>
+                                            <input asp-for="Parkinson.Rpde" type="number" value="0" id="Rpde" placeholder="0.00" />
+                                        </div>
+                                        <div class="form-group col-lg-3 mb-3">
+                                            <label class="lbl" for="Dfa">
+                                                DFA
+                                            </label>
+                                            <input asp-for="Parkinson.Dfa" type="number" value="0" id="Dfa" placeholder="0.00" />
+                                        </div>
+                                        <div class="form-group col-lg-3 mb-3">
+                                            <label class="lbl" for="Spread1">
+                                                Spread1
+                                            </label>
+                                            <input asp-for="Parkinson.Spread1" type="number" value="0" id="Spread1" placeholder="0.00" />
+                                        </div>
+                                        <div class="form-group col-lg-3 mb-3">
+                                            <label class="lbl" for="Spread2">
+                                                Spread2
+                                            </label>
+                                            <input asp-for="Parkinson.Spread2" type="number" value="0" id="Spread2" placeholder="0.00" />
+                                        </div>
+                                        <div class="form-group col-lg-3 mb-3">
+                                            <label class="lbl" for="D2">
+                                                D2
+                                            </label>
+                                            <input asp-for="Parkinson.D2" type="number" value="0" id="D2" placeholder="0.00" />
+                                        </div>
+                                        <div class="form-group col-lg-3 mb-3">
+                                            <label class="lbl" for="Ppe">
+                                                PPE
+                                            </label>
+                                            <input asp-for="Parkinson.Ppe" type="number" value="0" id="Ppe" placeholder="0.00" />
+                                        </div>
+                                    </div>
+
+                                    <button type="submit" id="parkinson" class="submit mt-3 w-100">@Localizer["Send"] <i class="fas fa-paper-plane"></i></button>
+                                </form>
+                            </div>
+                        </div>
+
+                    </div>
+                    <!-- End Parkinson -->
+                </div>
+            </div>
+            <!-- End Pages -->
+
+        </div>
+    </div>
+
+</div>
+<!-- ============ Model End ============= -->
+@section Scripts {
+    <script>
+        $("#lungcancer").click(function (e) {
+            e.preventDefault();
+
+            if($("#patientId").val() == '') {
+                Swal.fire({
+                    title: "Please Select Patient",
+                    icon: 'error',
+                    showCancelButton: true,
+                });
+            }
+            else {
+                let model = {
+                    PatientId: $("#patientId").val(),
+                    AirPollution: $("#airPollution").val(),
+                    Alcoholuse: $("#alcoholuse").val(),
+                    DustAllergy: $("#dustAllergy").val(),
+                    OccuPationalHazards: $("#occuPationalHazards").val(),
+                    GeneticRisk: $("#geneticRisk").val(),
+                    ChronicLungDisease: $("#chronicLungDisease").val(),
+                    BalancedDiet: $("#balancedDiet").val(),
+                    Obesity: $("#obesity").val(),
+                    Smoking: $("#smoking").val(),
+                    PassiveSmoker: $("#passiveSmoker").val(),
+                    ChestPain: $("#chestPain").val(),
+                    CoughingofBlood: $("#coughingofBlood").val(),
+                    Fatigue: $("#fatigue").val(),
+                    WeightLoss: $("#weightLoss").val(),
+                    ShortnessofBreath: $("#shortnessofBreath").val(),
+                    Wheezing: $("#wheezing").val(),
+                    SwallowingDifficulty: $("#swallowingDifficulty").val(),
+                    ClubbingofFingerNail: $("#clubbingofFingerNail").val(),
+                    FrequentCold: $("#frequentCold").val(),
+                    DryCough: $("#dryCough").val(),
+                    Snoring: $("#snoring").val(),
+                }
+
+                let ajaxDiv = $(this).parent().parent().parent().parent().parent().find("div.ajaxbg");
+                ajaxDiv.removeClass("d-none");
+
+                $.ajax({
+                    url: '/Model/LungCancer',
+                    type: 'POST',
+                    data: model,
+                    dataType: "json",
+                    success: function (data) {
+                        console.log(data.message);
+                        ajaxDiv.find("img").addClass("d-none");
+                        setTimeout(() => {
+                            ajaxDiv.animate({ opacity: 0 }, function () {
+                                $(this).addClass("d-none").fadeTo(.1, 1);
+                                $(this).find("img").removeClass("d-none");
+                            });
+                        });
+
+                        if (data.success) {
+                            Swal.fire({
+                                title: data.message,
+                                icon: 'success',
+                                showCancelButton: true
+                            });
+                        }
+                        else {
+                            Swal.fire({
+                                title: data.message,
+                                icon: 'error',
+                                showCancelButton: true,
+                            });
+                        }
+                    }
+                });
+            }
+
+        });
+    </script>
+    <script>
+        $("#parkinson").click(function (e) {
+            e.preventDefault();
+
+            if($("#patientId2").val() == '') {
+                Swal.fire({
+                    title: "Please Select Patient",
+                    icon: 'error',
+                    showCancelButton: true,
+                });
+            }
+            else {
+                let model = {
+                    PatientId: $("#patientId2").val(),
+                    Fo: parseFloat($("#Fo").val()),
+                    Fhi: parseFloat($("#Fhi").val()),
+                    Flo: parseFloat($("#Flo").val()),
+                    Jitter: parseFloat($("#Jitter").val()),
+                    JitterAbs: parseFloat($("#JitterAbs").val()),
+                    RAP: parseFloat($("#RAP").val()),
+                    PPQ: parseFloat($("#PPQ").val()),
+                    DDP: parseFloat($("#DDP").val()),
+                    Shimmer: parseFloat($("#Shimmer").val()),
+                    ShimmerDb: parseFloat($("#ShimmerDb").val()),
+                    ShimmerApq3: parseFloat($("#ShimmerApq3").val()),
+                    ShimmerApq5: parseFloat($("#ShimmerApq5").val()),
+                    Apq: parseFloat($("#Apq").val()),
+                    Dda: parseFloat($("#Dda").val()),
+                    Nhr: parseFloat($("#Nhr").val()),
+                    Hnr: parseFloat($("#Hnr").val()),
+                    Rpde: parseFloat($("#Rpde").val()),
+                    Dfa: parseFloat($("#Dfa").val()),
+                    Spread1: parseFloat($("#Spread1").val()),
+                    Spread2: parseFloat($("#Spread2").val()),
+                    D2: parseFloat($("#D2").val()),
+                    Ppe: parseFloat($("#Ppe").val())
+                };
+
+
+                let ajaxDiv = $(this).parent().parent().parent().parent().parent().find("div.ajaxbg");
+                ajaxDiv.removeClass("d-none");
+
+                $.ajax({
+                    url: '/Model/Parkinson',
+                    type: 'POST',
+                    data: model,
+                    dataType: "json",
+                    success: function (data) {
+                        console.log(data.message);
+                        ajaxDiv.find("img").addClass("d-none");
+                        setTimeout(() => {
+                            ajaxDiv.animate({ opacity: 0 }, function () {
+                                $(this).addClass("d-none").fadeTo(.1, 1);
+                                $(this).find("img").removeClass("d-none");
+                            });
+                        });
+
+                        if (data.success) {
+                            Swal.fire({
+                                title: data.message,
+                                icon: 'success',
+                                showCancelButton: true
+                            });
+                        }
+                        else {
+                            Swal.fire({
+                                title: data.message,
+                                icon: 'error',
+                                showCancelButton: true,
+                            });
+                        }
+                    }
+                });
+            }
+
+        });
+    </script>
+    <script src="~/js/model.js"></script>
+    @{
+        await Html.RenderPartialAsync("_Notification");
+    }
+}

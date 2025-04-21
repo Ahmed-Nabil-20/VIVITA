@@ -1,0 +1,52 @@
+E:\Asp.net Projects\Vivita\DataAccess_EF\bin\Debug\net6.0\DataAccess_EF.deps.json
+E:\Asp.net Projects\Vivita\DataAccess_EF\bin\Debug\net6.0\DataAccess_EF.runtimeconfig.json
+E:\Asp.net Projects\Vivita\DataAccess_EF\bin\Debug\net6.0\DataAccess_EF.dll
+E:\Asp.net Projects\Vivita\DataAccess_EF\bin\Debug\net6.0\DataAccess_EF.pdb
+E:\Asp.net Projects\Vivita\DataAccess_EF\bin\Debug\net6.0\Domain.dll
+E:\Asp.net Projects\Vivita\DataAccess_EF\bin\Debug\net6.0\Domain.pdb
+E:\Asp.net Projects\Vivita\DataAccess_EF\obj\Debug\net6.0\DataAccess_EF.csproj.AssemblyReference.cache
+E:\Asp.net Projects\Vivita\DataAccess_EF\obj\Debug\net6.0\DataAccess_EF.GeneratedMSBuildEditorConfig.editorconfig
+E:\Asp.net Projects\Vivita\DataAccess_EF\obj\Debug\net6.0\DataAccess_EF.AssemblyInfoInputs.cache
+E:\Asp.net Projects\Vivita\DataAccess_EF\obj\Debug\net6.0\DataAccess_EF.AssemblyInfo.cs
+E:\Asp.net Projects\Vivita\DataAccess_EF\obj\Debug\net6.0\DataAccess_EF.csproj.CoreCompileInputs.cache
+E:\Asp.net Projects\Vivita\DataAccess_EF\obj\Debug\net6.0\DataAcce.A7B5AE94.Up2Date
+E:\Asp.net Projects\Vivita\DataAccess_EF\obj\Debug\net6.0\DataAccess_EF.dll
+E:\Asp.net Projects\Vivita\DataAccess_EF\obj\Debug\net6.0\refint\DataAccess_EF.dll
+E:\Asp.net Projects\Vivita\DataAccess_EF\obj\Debug\net6.0\DataAccess_EF.pdb
+E:\Asp.net Projects\Vivita\DataAccess_EF\obj\Debug\net6.0\DataAccess_EF.genruntimeconfig.cache
+E:\Asp.net Projects\Vivita\DataAccess_EF\obj\Debug\net6.0\ref\DataAccess_EF.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\DataAccess_EF\bin\Debug\net6.0\DataAccess_EF.deps.json
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\DataAccess_EF\bin\Debug\net6.0\DataAccess_EF.runtimeconfig.json
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\DataAccess_EF\bin\Debug\net6.0\DataAccess_EF.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\DataAccess_EF\bin\Debug\net6.0\DataAccess_EF.pdb
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\DataAccess_EF\bin\Debug\net6.0\Domain.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\DataAccess_EF\bin\Debug\net6.0\Domain.pdb
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\DataAccess_EF\obj\Debug\net6.0\DataAccess_EF.csproj.AssemblyReference.cache
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\DataAccess_EF\obj\Debug\net6.0\DataAccess_EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\DataAccess_EF\obj\Debug\net6.0\DataAccess_EF.AssemblyInfoInputs.cache
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\DataAccess_EF\obj\Debug\net6.0\DataAccess_EF.AssemblyInfo.cs
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\DataAccess_EF\obj\Debug\net6.0\DataAccess_EF.csproj.CoreCompileInputs.cache
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\DataAccess_EF\obj\Debug\net6.0\DataAcce.A7B5AE94.Up2Date
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\DataAccess_EF\obj\Debug\net6.0\DataAccess_EF.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\DataAccess_EF\obj\Debug\net6.0\refint\DataAccess_EF.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\DataAccess_EF\obj\Debug\net6.0\DataAccess_EF.pdb
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\DataAccess_EF\obj\Debug\net6.0\DataAccess_EF.genruntimeconfig.cache
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\DataAccess_EF\obj\Debug\net6.0\ref\DataAccess_EF.dll
+D:\IT\Project\Vivita\DataAccess_EF\bin\Debug\net6.0\DataAccess_EF.deps.json
+D:\IT\Project\Vivita\DataAccess_EF\bin\Debug\net6.0\DataAccess_EF.runtimeconfig.json
+D:\IT\Project\Vivita\DataAccess_EF\bin\Debug\net6.0\DataAccess_EF.dll
+D:\IT\Project\Vivita\DataAccess_EF\bin\Debug\net6.0\DataAccess_EF.pdb
+D:\IT\Project\Vivita\DataAccess_EF\bin\Debug\net6.0\Domain.dll
+D:\IT\Project\Vivita\DataAccess_EF\bin\Debug\net6.0\Domain.pdb
+D:\IT\Project\Vivita\DataAccess_EF\obj\Debug\net6.0\DataAccess_EF.csproj.AssemblyReference.cache
+D:\IT\Project\Vivita\DataAccess_EF\obj\Debug\net6.0\DataAccess_EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\Project\Vivita\DataAccess_EF\obj\Debug\net6.0\DataAccess_EF.AssemblyInfoInputs.cache
+D:\IT\Project\Vivita\DataAccess_EF\obj\Debug\net6.0\DataAccess_EF.AssemblyInfo.cs
+D:\IT\Project\Vivita\DataAccess_EF\obj\Debug\net6.0\DataAccess_EF.csproj.CoreCompileInputs.cache
+D:\IT\Project\Vivita\DataAccess_EF\obj\Debug\net6.0\DataAccess_EF.sourcelink.json
+D:\IT\Project\Vivita\DataAccess_EF\obj\Debug\net6.0\DataAcce.A7B5AE94.Up2Date
+D:\IT\Project\Vivita\DataAccess_EF\obj\Debug\net6.0\DataAccess_EF.dll
+D:\IT\Project\Vivita\DataAccess_EF\obj\Debug\net6.0\refint\DataAccess_EF.dll
+D:\IT\Project\Vivita\DataAccess_EF\obj\Debug\net6.0\DataAccess_EF.pdb
+D:\IT\Project\Vivita\DataAccess_EF\obj\Debug\net6.0\DataAccess_EF.genruntimeconfig.cache
+D:\IT\Project\Vivita\DataAccess_EF\obj\Debug\net6.0\ref\DataAccess_EF.dll

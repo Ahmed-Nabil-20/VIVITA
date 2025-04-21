@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Comment" xml:space="preserve">
+    <value>Comment</value>
+  </data>
+  <data name="ContentAbout" xml:space="preserve">
+    <value>&lt;br&gt;
+                     Our website aims to provide several customized services to the user, whether the user is a patient or a doctor, as the
+                     site has several features and advantages, for example:
+                     &lt;br&gt; 
+                     the site allows to register an account of its own, in order to
+                     maintain security and provide features for the registered account. For example, there are four fixed services that
+                     Provided by the site to the user.</value>
+  </data>
+  <data name="ContentDisease_1" xml:space="preserve">
+    <value>Tuberculosis (TB) is a bacterial infection spread through inhaling tiny droplets from the coughs or sneezes of
+                        an infected person. It mainly affects the lungs, but it can affect any part of the body, including the tummy
+                        (abdomen), glands, bones and nervous system.</value>
+  </data>
+  <data name="ContentDisease_2" xml:space="preserve">
+    <value>Pneumonia is swelling (inflammation) of the tissue in one or both lungs. It's usually caused by a bacterial 
+                        infection or a virus.
+                        The symptoms of pneumonia can develop suddenly over 24 to 48 hours, or they may come on more slowly 
+                        over several days. Pneumonia is usually the result of a bacterial infection.</value>
+  </data>
+  <data name="ContentDisease_3" xml:space="preserve">
+    <value>Lung cancer is a type of cancer that begins in the lungs. Your lungs are two spongy organs in your chest that 
+                        take in oxygen when you inhale and release carbon dioxide when you exhale. Lung cancer is the leading cause 
+                        of cancer deaths worldwide.</value>
+  </data>
+  <data name="ContentDisease_4" xml:space="preserve">
+    <value>coronaviruses are a type of virus. There are many different kinds, and some cause disease. A coronavirus 
+                        identified in 2019, SARS-CoV-2, has caused a pandemic of respiratory illness, called COVID-19. The coronavirus 
+                        can be spread from person to person.</value>
+  </data>
+  <data name="ContentDisease_5" xml:space="preserve">
+    <value>Asthma is a condition in which your airways narrow and swell and may produce extra mucus. This can make 
+                        breathing difficult and trigger coughing, a whistling sound (wheezing) when you breathe out and shortness of 
+                        breath.</value>
+  </data>
+  <data name="ContentDisease_6" xml:space="preserve">
+    <value>Chronic obstructive pulmonary disease is a leading cause of death and disability, but has only recently been 
+                        extensively explored from a cellular and molecular perspective. The inflammation and proteolysis in chronic 
+                        obstructive pulmonary disease is an amplification of the normal inflammatory response to cigarette smoke.</value>
+  </data>
+  <data name="ContentDisease_7" xml:space="preserve">
+    <value>Pulmonary hypertension (PH) is high blood pressure in the lungs. This means that the blood vessels that carry 
+                        blood from the heart to the lungs become hard and narrow, making the heart work harder to pump the blood 
+                        through.</value>
+  </data>
+  <data name="ContentDisease_8" xml:space="preserve">
+    <value>A pulmonary embolism is a blood clot that blocks and stops blood flow to an artery in the lung. In most cases, 
+                        the blood clot starts in a deep vein in the leg and travels to the lung. Rarely, the clot forms in a vein in another 
+                        part of the body. When a blood clot forms in one or more of the deep veins in the body, it's called a deep vein 
+                        thrombosis (DVT).</value>
+  </data>
+  <data name="ContentService_1" xml:space="preserve">
+    <value>The medical advice blog aims to increase awareness among patients, increase the effectiveness of
+                    communication between patients and doctors, and facilitate knowledge of the risks of diseases, as well as the
+                    medical reasons that avoid these diseases.</value>
+  </data>
+  <data name="ContentService_2" xml:space="preserve">
+    <value>The disease detection process is useful for discovering a group of serious diseases that affect human health and that may lead to death if they are not resisted, such as pneumonia, tuberculosis and lung cancer.</value>
+  </data>
+  <data name="ContentService_3" xml:space="preserve">
+    <value>This box aims to measure the temperature, heartbeat and blood oxygen level to a large extent Accurate proportion, this is intended to show the initial indications of the patient's condition, as if an abnormality had occurred In any of them, it is seen that certain symptoms of the respiratory tract and breathing appear.</value>
+  </data>
+  <data name="ContentService_4" xml:space="preserve">
+    <value>The Doctor's Patient Management and Follow-Up System is designed to streamline patient care by providing an all-in-one platform for doctors to manage patient records, schedule follow-ups, and track treatment progress efficiently. This feature enhances doctor-patient communication, ensures timely follow-ups, and improves the overall healthcare experience.</value>
+  </data>
+  <data name="ContentSlider_1" xml:space="preserve">
+    <value>The Patient Safety Initiative aims to increase the process of awareness among the community in order to
+                    maintain public safety for all, especially from lung syndrome diseases related to the breathing process, and to
+                    find appropriate solutions through programs and blogs that allow this,
+                    &lt;br&gt;
+                    whether in order to facilitate
+                    knowledge of the disease itself or finding treatment and solutions that Help with that.</value>
+  </data>
+  <data name="ContentSlider_2" xml:space="preserve">
+    <value>The Doctor's Patient Management and Follow-Up System is designed to streamline patient care by providing an all-in-one platform for doctors to manage patient records, schedule follow-ups, and track treatment progress efficiently. This feature enhances doctor-patient communication, ensures timely follow-ups, and improves the overall healthcare experience.</value>
+  </data>
+  <data name="ContentSlider_3" xml:space="preserve">
+    <value>You probably already know that smoking increases your risk of lung cancer. But this is not the only disease
+                    that can cause it. In fact, smoking is associated with most lung diseases, including chronic obstructive
+                    pulmonary disease, idiopathic pulmonary fibrosis, and asthma.
+                    &lt;br&gt;
+                    It also makes smokers more likely to die.
+                    Smoking also causes lungs to age more rapidly. Eventually, the chemicals can change lung cells from normal to
+                    cancerous.</value>
+  </data>
+  <data name="Diseases" xml:space="preserve">
+    <value>Diseases</value>
+  </data>
+  <data name="ExpertDoctors" xml:space="preserve">
+    <value>EXPERT DOCTORS</value>
+  </data>
+  <data name="HappyPatients" xml:space="preserve">
+    <value>HAPPY PATIENTS</value>
+  </data>
+  <data name="LatestMedicalAdvices" xml:space="preserve">
+    <value>Latest Medical Advices</value>
+  </data>
+  <data name="MedicalAdvices" xml:space="preserve">
+    <value>Medical Advices</value>
+  </data>
+  <data name="More" xml:space="preserve">
+    <value>More</value>
+  </data>
+  <data name="SavedLungs" xml:space="preserve">
+    <value>SAVED LUNGS</value>
+  </data>
+  <data name="SomeCommonDiseases" xml:space="preserve">
+    <value>Some Common Diseases</value>
+  </data>
+  <data name="SubTitleAbout" xml:space="preserve">
+    <value>About Us</value>
+  </data>
+  <data name="SubTitleSlider_1" xml:space="preserve">
+    <value>Passion for caring</value>
+  </data>
+  <data name="SubTitleSlider_2" xml:space="preserve">
+    <value>Great Experience In Bulding</value>
+  </data>
+  <data name="SubTitleSlider_3" xml:space="preserve">
+    <value>higher level of care</value>
+  </data>
+  <data name="TitleAbout" xml:space="preserve">
+    <value>Joining Hands With GOBA Team</value>
+  </data>
+  <data name="TitleDisease_1" xml:space="preserve">
+    <value>Tuberculosis</value>
+  </data>
+  <data name="TitleDisease_2" xml:space="preserve">
+    <value>Pneumonia</value>
+  </data>
+  <data name="TitleDisease_3" xml:space="preserve">
+    <value>Lung Cancer</value>
+  </data>
+  <data name="TitleDisease_4" xml:space="preserve">
+    <value>COVID</value>
+  </data>
+  <data name="TitleDisease_5" xml:space="preserve">
+    <value>Asthma</value>
+  </data>
+  <data name="TitleDisease_6" xml:space="preserve">
+    <value>Chronic obstructive pulmonary disease</value>
+  </data>
+  <data name="TitleDisease_7" xml:space="preserve">
+    <value>Pulmonary Hypertension</value>
+  </data>
+  <data name="TitleDisease_8" xml:space="preserve">
+    <value>Blocked lung artery</value>
+  </data>
+  <data name="TitleService_1" xml:space="preserve">
+    <value>Medical Advices</value>
+  </data>
+  <data name="TitleService_2" xml:space="preserve">
+    <value>Diseases Detection</value>
+  </data>
+  <data name="TitleService_3" xml:space="preserve">
+    <value>Measuring Box</value>
+  </data>
+  <data name="TitleService_4" xml:space="preserve">
+    <value>Patient Management</value>
+  </data>
+  <data name="TitleSlider_1" xml:space="preserve">
+    <value>Patient Safety &lt;br&gt; Initiatives</value>
+  </data>
+  <data name="TitleSlider_2" xml:space="preserve">
+    <value>Patient Management</value>
+  </data>
+  <data name="TitleSlider_3" xml:space="preserve">
+    <value>Lung cancer
+                    &lt;br&gt;
+                    and deadly smoking</value>
+  </data>
+</root>

@@ -1,0 +1,151 @@
+﻿@model PatientDetailsVM
+
+@{
+    ViewData["Title"] = "Patient Details";
+}
+
+@section Styles {
+    <style>
+        ul li {
+            list-style: none !important;
+        }
+
+
+    </style>
+}
+
+<section class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1>@ViewData["Title"]</h1>
+            </div>
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Index">Home</a></li>
+                    <li class="breadcrumb-item active">@ViewData["Title"]</li>
+                </ol>
+            </div>
+        </div>
+    </div><!-- /.container-fluid -->
+</section>
+
+<section class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <!-- left column -->
+            <div class="col-md-12">
+                <!-- general form elements -->
+                <div class="card card-success">
+                    <div class="card-header">
+                        <h3 class="card-title">Details</h3>
+                    </div>
+                    <div class="container">
+
+                    <ul class="mt-3 pl-0">
+                        <li class="mb-2">
+                            Full Name:
+                            <span id="patientName">@Model.Patient.FullName</span>
+                        </li>
+                        <li class="mb-2">
+                            Phone:
+                            <span id="patientPhone">@Model.Patient.Phone</span>
+                        </li>
+                        <li class="mb-2">
+                            Age:
+                            <span id="patientAge">@Model.Patient.Age</span>
+                        </li>
+                        <li class="mb-2">
+                            Gender:
+                            <span id="patientGender">
+                                @if (@Model.Patient.Gender == true) 
+                                {
+                                    <span>Men</span>
+                                }
+                                else
+                                {
+                                    <span>Women</span>
+                                }
+                            </span>
+                        </li>
+                        <li class="mb-3">
+                            Doctor:
+                            <span id="patientAge">@Model.User?.FullName</span>
+                        </li>
+
+                        <h4 class="mb-2">Lung Cancers:</h4>
+                        <table class="table table-bordered table-striped" id="lungCancersTable">
+                            <thead>
+                                <tr>
+                                    <th>#</th>
+                                    <th>Status</th>
+                                    <th>Date</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model.Patient.LungCancers)
+								{
+									<tr>
+										<td>@item.Id</td>
+										<td>
+											@if (item.Status == true)
+											{
+												<span class="badge badge-danger">Positive</span>
+											}
+											else
+											{
+												<span class="badge badge-success">Normal</span>
+											}
+										</td>
+										<td>@item.CreationDateTime.ToShortDateString()</td>
+									</tr>
+								}
+                            </tbody>
+                        </table>
+                    
+                        <h4 class="mb-2 mt-4">Parkinsons:</h4>
+                        <table class="table table-bordered table-striped" id="parkinson">
+                            <thead>
+                                <tr>
+                                    <th>#</th>
+                                    <th>Status</th>
+                                    <th>Date</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model.Patient.Parkinsons)
+								{
+									<tr>
+										<td>@item.Id</td>
+										<td>
+											@if (item.Status == true)
+											{
+												<span class="badge badge-danger">Positive</span>
+											}
+											else
+											{
+												<span class="badge badge-success">Normal</span>
+											}
+										</td>
+										<td>@item.CreationDateTime.ToShortDateString()</td>
+									</tr>
+								}
+                            </tbody>
+                        </table>
+                    
+                    </ul>
+                    </div>
+                </div>
+            </div>
+            <!--/.col (left) -->
+        </div>
+        <!-- /.row -->
+    </div><!-- /.container-fluid -->
+</section>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+        await Html.RenderPartialAsync("_Notification");
+    }
+}

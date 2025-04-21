@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Comment" xml:space="preserve">
+    <value>تعليق</value>
+  </data>
+  <data name="ContentAbout" xml:space="preserve">
+    <value>&lt;br&gt;
+                     يهدف موقعنا على الإنترنت إلى تقديم عدة خدمات مخصصة للمستخدم سواء كان المستخدم مريضًا أو طبيبًا مثل
+                     يتميز الموقع بعدة مميزات ومميزات منها على سبيل المثال:
+                     &lt;br&gt;
+                     يسمح الموقع بتسجيل حساب خاص به ، من أجل
+                     الحفاظ على الأمن وتوفير ميزات للحساب المسجل. على سبيل المثال ، هناك أربع خدمات ثابتة
+                     يقدمه الموقع للمستخدم.</value>
+  </data>
+  <data name="ContentDisease_1" xml:space="preserve">
+    <value>السل (TB) هو عدوى بكتيرية تنتشر عن طريق استنشاق قطرات صغيرة من السعال أو العطس.
+                        شخص مصاب. وهو يؤثر بشكل رئيسي على الرئتين ، ولكنه يمكن أن يؤثر على أي جزء من الجسم ، بما في ذلك البطن
+                        (البطن) والغدد والعظام والجهاز العصبي.</value>
+  </data>
+  <data name="ContentDisease_2" xml:space="preserve">
+    <value>الالتهاب الرئوي هو تورم (التهاب) في أنسجة إحدى الرئتين أو كلتيهما. عادة ما تسببه بكتيريا
+                        عدوى أو فيروس.
+                        يمكن أن تظهر أعراض الالتهاب الرئوي فجأة خلال 24 إلى 48 ساعة ، أو قد تظهر بشكل أبطأ
+                        على مدى عدة أيام. عادة ما يكون الالتهاب الرئوي نتيجة عدوى بكتيرية.</value>
+  </data>
+  <data name="ContentDisease_3" xml:space="preserve">
+    <value>سرطان الرئة هو نوع من السرطان يبدأ في الرئتين. رئتيك هما عضوان إسفنجيان في صدرك
+                        خذ الأكسجين عند الشهيق وأطلق ثاني أكسيد الكربون عند الزفير. سرطان الرئة هو السبب الرئيسي
+                        من وفيات السرطان في جميع أنحاء العالم.</value>
+  </data>
+  <data name="ContentDisease_4" xml:space="preserve">
+    <value>الفيروسات التاجية هي نوع من الفيروسات. هناك العديد من الأنواع المختلفة ، وبعضها يسبب المرض. فيروس كورونا
+                        الذي تم تحديده في عام 2019 ، تسبب SARS-CoV-2 في حدوث جائحة من أمراض الجهاز التنفسي ، يسمى COVID-19. فيروس الكورونا
+                        يمكن أن ينتشر من شخص لآخر.</value>
+  </data>
+  <data name="ContentDisease_5" xml:space="preserve">
+    <value>الربو هو حالة تكون فيها الممرات الهوائية ضيقة ومنتفخة وقد ينتج عنها مخاط إضافي. هذا يمكن أن يجعل
+                        صعوبة في التنفس والسعال ، صوت صفير عند الزفير وضيق في التنفس
+                        يتنفس.</value>
+  </data>
+  <data name="ContentDisease_6" xml:space="preserve">
+    <value>يعد مرض الانسداد الرئوي المزمن سببًا رئيسيًا للوفاة والعجز ، ولكنه لم يحدث إلا مؤخرًا
+                        تم استكشافها على نطاق واسع من منظور خلوي وجزيئي. التهاب وانحلال البروتينات المزمنة
+                        مرض الانسداد الرئوي هو تضخيم للاستجابة الالتهابية الطبيعية لدخان السجائر.</value>
+  </data>
+  <data name="ContentDisease_7" xml:space="preserve">
+    <value>ارتفاع ضغط الدم الرئوي (PH) هو ارتفاع ضغط الدم في الرئتين. وهذا يعني أن الأوعية الدموية التي تحمل
+                        يصبح الدم من القلب إلى الرئتين صعبًا وضيقًا ، مما يجعل القلب يعمل بجهد أكبر لضخ الدم
+                        خلال.</value>
+  </data>
+  <data name="ContentDisease_8" xml:space="preserve">
+    <value>الانسداد الرئوي هو جلطة دموية تمنع وتوقف تدفق الدم إلى أحد الشرايين في الرئة. في معظم الحالات،
+                        تبدأ الجلطة الدموية في وريد عميق في الرجل وتنتقل إلى الرئة. نادرًا ما تتشكل الجلطة في الوريد في مكان آخر
+                        جزء من الجسم. عندما تتكون جلطة دموية في واحد أو أكثر من الأوردة العميقة في الجسم ، فإنها تسمى وريد عميق
+                        تجلط الدم (DVT).</value>
+  </data>
+  <data name="ContentService_1" xml:space="preserve">
+    <value>تهدف مدونة النصائح الطبية إلى زيادة الوعي بين المرضى وزيادة فعالية
+                    التواصل بين المرضى والأطباء ، وتسهيل معرفة مخاطر الأمراض ، وكذلك
+                    الأسباب الطبية التي تمنع هذه الأمراض.</value>
+  </data>
+  <data name="ContentService_2" xml:space="preserve">
+    <value>عملية الكشف عن المرض مفيدة لاكتشاف مجموعة من الأمراض الخطيرة التي تؤثر على صحة الإنسان والتي قد تؤدي إلى الوفاة إذا لم تتم مقاومتها ، مثل الالتهاب الرئوي والسل وسرطان الرئة.</value>
+  </data>
+  <data name="ContentService_3" xml:space="preserve">
+    <value>يهدف هذا الصندوق إلى قياس درجة الحرارة ونبض القلب ومستوى الأكسجين في الدم إلى حد كبير ونسبة دقيقة ، ويهدف هذا إلى إظهار المؤشرات الأولية لحالة المريض ، وكأن خللًا قد حدث في أي منها ، فيظهر أن هناك أعراضًا معينة يظهر في الجهاز التنفسي والتنفس.</value>
+  </data>
+  <data name="ContentService_4" xml:space="preserve">
+    <value>تم تصميم نظام إدارة المرضى ومتابعتهم للأطباء لتسهيل رعاية المرضى من خلال توفير منصة شاملة تتيح للأطباء إدارة سجلات المرضى، وجدولة المتابعات، وتتبع تقدم العلاج بكفاءة. تساعد هذه الميزة في تحسين التواصل بين الأطباء والمرضى، وضمان المتابعات في الوقت المناسب، وتعزيز تجربة الرعاية الصحية بشكل عام.</value>
+  </data>
+  <data name="ContentSlider_1" xml:space="preserve">
+    <value>تهدف مبادرة سلامة المرضى إلى زيادة عملية الوعي بين المجتمع من أجل
+                    الحفاظ على السلامة العامة للجميع وخاصة من أمراض الرئة المتعلقة بعملية التنفس ، وإلى
+                    إيجاد الحلول المناسبة من خلال البرامج والمدونات التي تسمح بذلك ،
+                    &lt;br&gt;
+                    سواء من أجل التيسير
+                    معرفة المرض نفسه أو إيجاد العلاج والحلول التي تساعد في ذلك.</value>
+  </data>
+  <data name="ContentSlider_2" xml:space="preserve">
+    <value>تم تصميم نظام إدارة المرضى ومتابعتهم للأطباء لتسهيل رعاية المرضى من خلال توفير منصة شاملة تتيح للأطباء إدارة سجلات المرضى، وجدولة المتابعات، وتتبع تقدم العلاج بكفاءة. تساعد هذه الميزة في تحسين التواصل بين الأطباء والمرضى، وضمان المتابعات في الوقت المناسب، وتعزيز تجربة الرعاية الصحية بشكل عام.</value>
+  </data>
+  <data name="ContentSlider_3" xml:space="preserve">
+    <value>ربما تعلم بالفعل أن التدخين يزيد من خطر الإصابة بسرطان الرئة. لكن هذا ليس المرض الوحيد
+                    يمكن أن يسبب ذلك. في الواقع ، يرتبط التدخين بمعظم أمراض الرئة ، بما في ذلك الانسداد المزمن
+                    أمراض الرئة والتليف الرئوي مجهول السبب والربو.
+                    &lt;br&gt;
+                    كما أنه يجعل المدخنين أكثر عرضة للوفاة.
+                    يتسبب التدخين أيضًا في شيخوخة الرئتين بسرعة أكبر. في النهاية ، يمكن للمواد الكيميائية تغيير خلايا الرئة من الطبيعي إلى
+                    سرطاني.</value>
+  </data>
+  <data name="Diseases" xml:space="preserve">
+    <value>الأمراض</value>
+  </data>
+  <data name="ExpertDoctors" xml:space="preserve">
+    <value>الأطباء الخبراء</value>
+  </data>
+  <data name="HappyPatients" xml:space="preserve">
+    <value>مرضى سعداء</value>
+  </data>
+  <data name="LatestMedicalAdvices" xml:space="preserve">
+    <value>أحدث النصائح الطبية</value>
+  </data>
+  <data name="MedicalAdvices" xml:space="preserve">
+    <value>نصائح طبية</value>
+  </data>
+  <data name="More" xml:space="preserve">
+    <value>المزيد</value>
+  </data>
+  <data name="SavedLungs" xml:space="preserve">
+    <value>الرئتين المحفوظة</value>
+  </data>
+  <data name="SomeCommonDiseases" xml:space="preserve">
+    <value>بعض الأمراض الشائعة</value>
+  </data>
+  <data name="SubTitleAbout" xml:space="preserve">
+    <value>من نحن</value>
+  </data>
+  <data name="SubTitleSlider_1" xml:space="preserve">
+    <value>شغف الرعاية</value>
+  </data>
+  <data name="SubTitleSlider_2" xml:space="preserve">
+    <value>تجربة رائعة في البناء</value>
+  </data>
+  <data name="SubTitleSlider_3" xml:space="preserve">
+    <value>مستوى أعلى من الرعاية</value>
+  </data>
+  <data name="TitleAbout" xml:space="preserve">
+    <value>التكاتف مع فريق جوبا</value>
+  </data>
+  <data name="TitleDisease_1" xml:space="preserve">
+    <value>مرض السُل</value>
+  </data>
+  <data name="TitleDisease_2" xml:space="preserve">
+    <value>التليف رئوي</value>
+  </data>
+  <data name="TitleDisease_3" xml:space="preserve">
+    <value>سرطان الرئة</value>
+  </data>
+  <data name="TitleDisease_4" xml:space="preserve">
+    <value>مرض فيروس كورونا</value>
+  </data>
+  <data name="TitleDisease_5" xml:space="preserve">
+    <value>الربو</value>
+  </data>
+  <data name="TitleDisease_6" xml:space="preserve">
+    <value>انسداد رئوي مزمن</value>
+  </data>
+  <data name="TitleDisease_7" xml:space="preserve">
+    <value>ارتفاع ضغط الشريان الرئوي</value>
+  </data>
+  <data name="TitleDisease_8" xml:space="preserve">
+    <value>انسداد شريان الرئة</value>
+  </data>
+  <data name="TitleService_1" xml:space="preserve">
+    <value>نصائح طبية</value>
+  </data>
+  <data name="TitleService_2" xml:space="preserve">
+    <value>كشف الأمراض</value>
+  </data>
+  <data name="TitleService_3" xml:space="preserve">
+    <value>صندوق القياس</value>
+  </data>
+  <data name="TitleService_4" xml:space="preserve">
+    <value>إدارة المرضى</value>
+  </data>
+  <data name="TitleSlider_1" xml:space="preserve">
+    <value>مبادرات سلامة &lt;br&gt; المرضى</value>
+  </data>
+  <data name="TitleSlider_2" xml:space="preserve">
+    <value>إدارة المرضى</value>
+  </data>
+  <data name="TitleSlider_3" xml:space="preserve">
+    <value>سرطان الرئة
+                    &lt;br&gt;
+                    والتدخين القاتل</value>
+  </data>
+</root>

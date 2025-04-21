@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Actions" xml:space="preserve">
+    <value>الاجراءات</value>
+  </data>
+  <data name="Add" xml:space="preserve">
+    <value>إضافة ممرض</value>
+  </data>
+  <data name="Age" xml:space="preserve">
+    <value>العمر</value>
+  </data>
+  <data name="AirPollution" xml:space="preserve">
+    <value>تلوث الهواء</value>
+  </data>
+  <data name="Alcoholuse" xml:space="preserve">
+    <value>استخدام الكحول</value>
+  </data>
+  <data name="Alexandria" xml:space="preserve">
+    <value>الاسكندرية</value>
+  </data>
+  <data name="AnalysisFile" xml:space="preserve">
+    <value>ملف التحاليل</value>
+  </data>
+  <data name="BalancedDiet" xml:space="preserve">
+    <value>نظام غذائي متوازن</value>
+  </data>
+  <data name="Brief" xml:space="preserve">
+    <value>نبذة مختصرة عنك</value>
+  </data>
+  <data name="Cairo" xml:space="preserve">
+    <value>القاهرة</value>
+  </data>
+  <data name="ChestPain" xml:space="preserve">
+    <value>ألم صدر</value>
+  </data>
+  <data name="ChestRay" xml:space="preserve">
+    <value>اشعة الصدر</value>
+  </data>
+  <data name="ChronicLungDisease" xml:space="preserve">
+    <value>مرض الرئة المزمن</value>
+  </data>
+  <data name="Clinic" xml:space="preserve">
+    <value>العيادة</value>
+  </data>
+  <data name="ClinicPhotos" xml:space="preserve">
+    <value>صور العيادة</value>
+  </data>
+  <data name="ClubbingofFingerNail" xml:space="preserve">
+    <value>تعجر أظافر الأصابع</value>
+  </data>
+  <data name="CoughingofBlood" xml:space="preserve">
+    <value>سعال الدم</value>
+  </data>
+  <data name="Dashboard" xml:space="preserve">
+    <value>لوحة التحكم</value>
+  </data>
+  <data name="DateAndTime" xml:space="preserve">
+    <value>التاريخ&amp;الوقت</value>
+  </data>
+  <data name="DiseasesDetection" xml:space="preserve">
+    <value>أكتشاف الامراض</value>
+  </data>
+  <data name="DryCough" xml:space="preserve">
+    <value>سعال جاف</value>
+  </data>
+  <data name="DustAllergy" xml:space="preserve">
+    <value>حساسية الغبار</value>
+  </data>
+  <data name="EditInformation" xml:space="preserve">
+    <value>تعديل المعلومات الشخصية</value>
+  </data>
+  <data name="EditProfile" xml:space="preserve">
+    <value>تعديل الملف الشخصي</value>
+  </data>
+  <data name="Egypt" xml:space="preserve">
+    <value>مصر</value>
+  </data>
+  <data name="Fatigue" xml:space="preserve">
+    <value>تعب</value>
+  </data>
+  <data name="France" xml:space="preserve">
+    <value>فرنسا</value>
+  </data>
+  <data name="FrequentCold" xml:space="preserve">
+    <value>كثرة البرد</value>
+  </data>
+  <data name="FullName" xml:space="preserve">
+    <value>الاسم بالكامل</value>
+  </data>
+  <data name="Gender" xml:space="preserve">
+    <value>النوع</value>
+  </data>
+  <data name="GeneticRisk" xml:space="preserve">
+    <value>المخاطر الجينية</value>
+  </data>
+  <data name="HistoricalOfLungCancer" xml:space="preserve">
+    <value>تاريخ سرطان الرئة</value>
+  </data>
+  <data name="HistoricalOfPneumonia" xml:space="preserve">
+    <value>تاريخي من التليف الرئوي</value>
+  </data>
+  <data name="HistoricalOfTuberculosis" xml:space="preserve">
+    <value>تاريخي من مرض السل</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>الصفحة الرئيسية</value>
+  </data>
+  <data name="Image" xml:space="preserve">
+    <value>الصورة</value>
+  </data>
+  <data name="Info" xml:space="preserve">
+    <value>&lt;p&gt; من لوحة تحكم حسابك. يمكنك بسهولة عرض &lt;span&gt; التاريخية &lt;/ span&gt; &lt;/p&gt;
+                                &lt;p&gt; قم بإدارة &lt;span&gt; حسابك &lt;/ span&gt; و &lt;span&gt; تحرير ملفك الشخصي &lt;/ span&gt; &lt;/p&gt;</value>
+  </data>
+  <data name="Location" xml:space="preserve">
+    <value>الموقع</value>
+  </data>
+  <data name="Logout" xml:space="preserve">
+    <value>تسجيل خروج</value>
+  </data>
+  <data name="LungTransplantRequests" xml:space="preserve">
+    <value>طلبات زراعة الرئة</value>
+  </data>
+  <data name="MeasuringBox" xml:space="preserve">
+    <value>صندوق القياس</value>
+  </data>
+  <data name="MyAdvices" xml:space="preserve">
+    <value>نصائحى</value>
+  </data>
+  <data name="MyProfile" xml:space="preserve">
+    <value>الصفحة الشخصية</value>
+  </data>
+  <data name="NationalId" xml:space="preserve">
+    <value>رقم البطاقة</value>
+  </data>
+  <data name="NationalPhoto" xml:space="preserve">
+    <value>البطاقة</value>
+  </data>
+  <data name="NoData" xml:space="preserve">
+    <value>لا يوجد بيانات لعرضها</value>
+  </data>
+  <data name="Obesity" xml:space="preserve">
+    <value>بدانة</value>
+  </data>
+  <data name="OccuPationalHazards" xml:space="preserve">
+    <value>المخاطر المهنية</value>
+  </data>
+  <data name="PassiveSmoker" xml:space="preserve">
+    <value>مدخن سلبي</value>
+  </data>
+  <data name="PatientName" xml:space="preserve">
+    <value>اسم المريض</value>
+  </data>
+  <data name="PatientTab" xml:space="preserve">
+    <value>إدارة المرضى</value>
+  </data>
+  <data name="Phone" xml:space="preserve">
+    <value>المحمول</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>حفظ</value>
+  </data>
+  <data name="SelectCity" xml:space="preserve">
+    <value>اختيار المدينة</value>
+  </data>
+  <data name="SelectCountry" xml:space="preserve">
+    <value>اختيار البلد</value>
+  </data>
+  <data name="SelectSpecialization" xml:space="preserve">
+    <value>اختيار التخصص</value>
+  </data>
+  <data name="ShortnessofBreath" xml:space="preserve">
+    <value>ضيق في التنفس</value>
+  </data>
+  <data name="Smoking" xml:space="preserve">
+    <value>التدخين</value>
+  </data>
+  <data name="Snoring" xml:space="preserve">
+    <value>الشخير</value>
+  </data>
+  <data name="Specialization" xml:space="preserve">
+    <value>التخصص</value>
+  </data>
+  <data name="Status" xml:space="preserve">
+    <value>الحالة</value>
+  </data>
+  <data name="SwallowingDifficulty" xml:space="preserve">
+    <value>صعوبة البلع</value>
+  </data>
+  <data name="UserName" xml:space="preserve">
+    <value>اسم المستخدم</value>
+  </data>
+  <data name="Views" xml:space="preserve">
+    <value>مشاهده</value>
+  </data>
+  <data name="WeightLoss" xml:space="preserve">
+    <value>فقدان الوزن</value>
+  </data>
+  <data name="Wheezing" xml:space="preserve">
+    <value>صفير</value>
+  </data>
+</root>

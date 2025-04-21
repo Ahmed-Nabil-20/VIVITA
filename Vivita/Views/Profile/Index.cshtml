@@ -1,0 +1,569 @@
+﻿@inject IViewLocalizer Localizer
+@model ProfilePageVM
+
+@{
+    ViewData["Title"] = "Profile";
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/rev/veno-box/venobox.css">
+    <!-- DataTables -->
+    <link rel="stylesheet" href="~/Admin/plugins/datatables-bs4/css/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" href="~/Admin/plugins/datatables-responsive/css/responsive.bootstrap4.min.css">
+    <link rel="stylesheet" href="~/Admin/plugins/datatables-buttons/css/buttons.bootstrap4.min.css">
+    <style>
+        .dataTables_filter input {
+            background: var(--grey-color);
+            border: 1px solid var(--primary-color);
+            color: var(--dark-color);
+            margin-bottom: 0 !important;
+            width: auto !important;
+            float: none !important;
+            font-size: 17px !important;
+            font-weight: 600 !important;
+            padding: 0 7px !important;
+            height: auto !important;
+            line-height: 22px !important;
+        }
+
+        td .td_active {
+            font-size: 13px;
+            padding: 3px 10px;
+            border-radius: 3px;
+            display: inline-block;
+            color: #fff;
+        }
+
+        .bg-olive {
+            background-color: #317c5b;
+        }
+
+        .lungCancer {
+            overflow-x: scroll !important;
+        }
+
+        .lungCancer tr,
+        .lungCancer tr span {
+            font-size: 11px !important;
+        }
+    </style>
+}
+
+<!--============= breadcrumb start ===============-->
+<div class="pq-breadcrumb" style="background-image: url('./rev/assets/page-title4.jpg');">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-12">
+                <nav aria-label="breadcrumb">
+                    <div class="pq-breadcrumb-title">
+                        <h2>@Localizer["MyProfile"]</h2>
+                    </div>
+                    <div class="pq-breadcrumb-container mt-2">
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Index"><i class="fas fa-home mr-2"></i>@Localizer["Home"]</a></li>
+                            <li class="breadcrumb-item active">@Localizer["MyProfile"]</li>
+                        </ol>
+                    </div>
+                </nav>
+            </div>
+            <div class="col-lg-4">
+                <div class="pq-breadcrumb-img text-right wow fadeInRight animated" style="visibility: visible;"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--============= breadcrumb End ===============-->
+<!-- Start Account -->
+<div class="account mt-5">
+    <div class="container">
+        <div class="row">
+
+            <!-- Start Tabs -->
+            <div class="col-lg-3 col-md-4 mb-lg-0 mb-md-0 mb-4">
+                <div class="tabs">
+                    <li class="active dashboard">
+                        <i class="fa fa-sliders"></i>
+                        @Localizer["Dashboard"]
+                    </li>
+                    @if (User.IsInRole(Roles.Doctor) && Model?.Doctor?.Id != 0)
+                    {
+                        <li class="hardware">
+                            <i class="bi bi-gear-wide-connected"></i>
+                            @Localizer["PatientTab"]
+                        </li>
+                    }
+               
+                    <a asp-controller="Account" asp-action="LogOut">
+                        <li>
+                            <i class="bi bi-box-arrow-left"></i>
+                            @Localizer["Logout"]
+                        </li>
+                    </a>
+                </div>
+            </div>
+            <!-- End Tabs -->
+            <!--  =================================================================================================== -->
+            <!-- Start Pages -->
+            <div class="col-lg-9 col-md-8">
+                <div class="pages">
+
+                    <!-- Strat Dashboard -->
+                    <div class="dashboard page active">
+                        <div class="image-box mb-4">
+                            <form asp-controller="Profile" asp-action="UpdateUserPhoto" role="form" method="post" enctype="multipart/form-data" id="imgForm">
+                                <div class="drop-zone d-flex align-items-center">
+                                    @if (Model.User?.Photo != null)
+                                    {
+                                        <img class="lazy drop-zone__prompt" data-src="data:image/*;base64,@(Convert.ToBase64String(Model.User.Photo))" alt="">
+                                    }
+                                    else
+                                    {
+                                        <img class="lazy drop-zone__prompt" data-src="images/person.png" alt="">
+                                    }
+                                    @if (string.IsNullOrEmpty(Model.User?.FullName))
+                                    {
+                                        <div class="title">
+                                            <span>@Model.User?.UserName</span>
+                                        </div>
+                                    }
+                                    else
+                                    {
+                                        <div class="title">
+                                            <span>@Model.User.FullName</span>
+                                            <p class="mb-0">@Model.User.UserName</p>
+                                        </div>
+                                    }
+
+                                    <i class="fa fa-plus"></i>
+                                    <input type="file" name="myFile" class="drop-zone__input" id="userPhoto">
+                                </div>
+                            </form>
+                        </div>
+                        <div class="info row mt-3">
+                            <div class="left col-lg-8 mb-4">
+                                @if (User.IsInRole(Roles.Doctor) && Model?.Doctor?.Id != 0)
+                                {
+                                    <ul>
+                                        <li>
+                                            <h6><i class="fas fa-notes-medical"></i> @Localizer["Clinic"]:</h6>
+                                            <span>@Model.Doctor.Clinic</span>
+                                        </li>
+                                        <li>
+                                            <h6><i class="fas fa-file-signature"></i> @Localizer["Brief"]:</h6>
+                                            @Model.Doctor.Brief
+                                        </li>
+                                        <li>
+                                            <h6><i class="fas fa-map-marker-alt"></i> @Localizer["Location"]:</h6>
+                                            @Model.Doctor.Location
+                                        </li>
+                                        <li>
+                                            <h6 class="mb-3"><i class="fas fa-images"></i> @Localizer["ClinicPhotos"]:</h6>
+                                            <div class="row">
+                                                @if (Model.Doctor.ClinicImages is not null)
+                                                {
+                                                    @foreach (var photo in Model.Doctor.ClinicImages)
+                                                    {
+                                                        <div class="box_image col-lg-4 col-md-6 mb-3">
+                                                            <button onClick=Delete("/Profile/DeleteClinicImage/@photo.Id--@photo.DoctorId")>
+                                                                <i class="fas fa-trash-alt"></i>
+                                                            </button>
+                                                            <a class="venobox" data-gall="myGallery" href="data:image/*;base64,@(Convert.ToBase64String(photo.Image))">
+                                                                <img data-src="data:image/*;base64,@(Convert.ToBase64String(photo.Image))" class="lazy w-100" alt="">
+                                                            </a>
+                                                        </div>
+                                                    }
+                                                }
+                                                <div class="col-lg-4 col-md-6 mb-3">
+                                                    <form id="form_add_image" asp-action="AddClinicImages" role="form" method="post" enctype="multipart/form-data" class="w-100 add-image row justify-content-center align-items-center">
+                                                        <div class="icon">
+                                                            +
+                                                        </div>
+                                                        @*Doctor Id*@
+                                                        <input type="hidden" name="doctorId" value="@Model.Doctor.Id" />
+                                                        @*Clinic Image*@
+                                                        <input type="file" id="add_image" name="clinicImage" class="w-100 h-100">
+                                                    </form>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                }
+
+                                @Localizer["Info"]
+
+                                <!-- Trigger the modal with a button -->
+                                <button class="btn mt-3 edit_profile" id="openModel">@Localizer["EditProfile"] <i class="fa fa-pen-to-square"></i></button>
+                                @if (User.IsInRole(Roles.Doctor))
+                                {
+                                    <button class="btn mt-3 edit_profile edit_profile1" id="openModelDoctor">@Localizer["EditInformation"] <i class="fa fa-pen-to-square"></i></button>
+                                }
+
+                                <!-- Model Form -->
+                                <div id="myModel" class="modal">
+                                    <!-- Modal content -->
+                                    <div class="modal-content">
+                                        <h4 class="modal-title">@Localizer["EditProfile"]</h4>
+                                        <span class="close">&times;</span>
+                                        <hr class="mt-3 mb-3">
+                                        <form asp-controller="Profile" asp-action="UpdateUserInfo" method="post" role="form">
+                                            <label for="username">@Localizer["UserName"]</label>
+                                            <div class="form-group mb-3">
+                                                <i class="fas fa-user"></i>
+                                                <input id="username" name="userName" value="@Model.User?.UserName" type="text" class="form-control" placeholder="" required>
+                                            </div>
+
+                                            <label for="fullname">@Localizer["FullName"]</label>
+                                            <div class="form-group mb-3">
+                                                <i class="fas fa-user-edit"></i>
+                                                <input id="fullname" name="fullName" value="@Model.User?.FullName" type="text" class="form-control" placeholder="">
+                                            </div>
+
+                                            <button class="submit btn bt-primary" type="submit">@Localizer["Save"]</button>
+                                        </form>
+                                    </div>
+                                </div>
+
+                                @if (User.IsInRole(Roles.Doctor))
+                                {
+                                    <!-- Model Form Doctor -->
+                                    <div id="myModelDoctor" class="modal">
+                                        <!-- Modal content -->
+                                        <div class="modal-content">
+                                            <h4 class="modal-title">@Localizer["EditInformation"]</h4>
+                                            <span class="close colse1">&times;</span>
+                                            <hr class="mt-3 mb-3">
+                                            <form asp-action="SaveDoctor" role="form" method="post">
+
+                                                @*Id*@
+                                                @if (Model.Doctor == null)
+                                                {
+                                                    <input type="hidden" asp-for="Doctor.Id" value="0" />
+                                                }
+                                                else
+                                                {
+                                                    <input type="hidden" asp-for="Doctor.Id" />
+                                                }
+
+                                                @*User Id*@
+                                                <input type="hidden" asp-for="Doctor.AppUserId" value="@Model.User.Id" />
+
+                                                @*Select Specialization*@
+                                                <label for="special">@Localizer["SelectSpecialization"]</label>
+                                                <div class="form-group form-group-select mb-3">
+                                                    <select asp-for="Doctor.SpecializationId" class="round" id="special" asp-items="@(new SelectList(ViewBag.LstSpecialization, "Id","Name_EN"))">
+                                                    </select>
+                                                </div>
+
+                                                @*Clinic*@
+                                                <label for="clinic">@Localizer["Clinic"]</label>
+                                                <div class="form-group mb-3">
+                                                    <i class="fas fa-notes-medical"></i>
+                                                    <input asp-for="Doctor.Clinic" id="clinic" type="text" class="form-control">
+                                                </div>
+
+                                                @*Phone*@
+                                                <label for="phone">@Localizer["Phone"]</label>
+                                                <div class="form-group mb-3">
+                                                    <i class="fas fa-phone"></i>
+                                                    <input asp-for="Doctor.Phone" id="phone" type="number" class="form-control">
+                                                </div>
+
+                                                @*Brief*@
+                                                <label for="brief">@Localizer["Brief"]</label>
+                                                <div class="form-group mb-3">
+                                                    <i class="fas fa-file-signature"></i>
+                                                    <textarea asp-for="Doctor.Brief" id="brief" class="form-control"></textarea>
+                                                </div>
+
+                                                <div class="row">
+                                                    @*Country*@
+                                                    <div class="col-lg-6">
+                                                        <label for="country">@Localizer["SelectCountry"]</label>
+                                                        <div class="form-group form-group-select mb-3">
+                                                            <select asp-for="Doctor.Country" class="round" id="country">
+                                                                <option value="Egypt">@Localizer["Egypt"]</option>
+                                                                <option value="France">@Localizer["France"]</option>
+                                                            </select>
+                                                        </div>
+
+                                                    </div>
+
+                                                    @*City*@
+                                                    <div class="col-lg-6">
+                                                        <label for="city">@Localizer["SelectCity"]</label>
+                                                        <div class="form-group form-group-select mb-3">
+                                                            <select asp-for="Doctor.City" class="round" id="city">
+                                                                <option value="Alexandria">@Localizer["Alexandria"]</option>
+                                                                <option value="Cairo">@Localizer["Cairo"]</option>
+                                                            </select>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                @*Location*@
+                                                <label for="location">@Localizer["Location"]</label>
+                                                <div class="form-group mb-3">
+                                                    <i class="fas fa-map-marker-alt"></i>
+                                                    <input asp-for="Doctor.Location" id="location" type="text" class="form-control">
+                                                </div>
+
+                                                <button class="submit btn bt-success" type="submit">@Localizer["Save"]</button>
+                                            </form>
+                                        </div>
+                                    </div>
+                                }
+
+                            </div>
+
+                            @if (User.IsInRole(Roles.Doctor))
+                            {
+                                <div class="right col-lg-4">
+                                    <div class="box">
+                                        <div class="special">
+                                            <h6><i class="fas fa-tag"></i> @Localizer["Specialization"]:</h6>
+                                            <span>@Model.Doctor?.Specialization?.Name_EN</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                    <!-- End Dashboard -->
+                    <!--=================================================================================-->
+                    <!-- Start historical for modle -->
+                    <div class="hardware page">
+                        <button class="btn btn-primary mb-3" type="button" id="openPatientModel">
+                            @Localizer["Add"] +
+                        </button>
+                        <div class="card">
+                            <div class="card-header">
+                                @Localizer["PatientTab"]
+                            </div>
+                            <div class="card-body">
+                                <div id="example1_wrapper" class="dataTables_wrapper dt-bootstrap4">
+                                    <div class="row">
+                                        <div class="col-sm-12">
+                                            <table id="example1" class="table table-bordered table-striped dataTable dtr-inline" role="grid" aria-describedby="example1_info">
+                                                <thead>
+                                                    <tr role="row">
+                                                        <th class="sorting sorting_asc" tabindex="0" aria-controls="example1" rowspan="1" colspan="1" aria-sort="ascending" aria-label="Rendering engine: activate to sort column descending">
+                                                            @Localizer["FullName"]
+                                                        </th>
+                                                        <th class="sorting sorting_asc" tabindex="0" aria-controls="example1" rowspan="1" colspan="1" aria-sort="ascending" aria-label="Rendering engine: activate to sort column descending">
+                                                            @Localizer["Phone"]
+                                                        </th>
+                                                        <th class="sorting sorting_asc" tabindex="0" aria-controls="example1" rowspan="1" colspan="1" aria-sort="ascending" aria-label="Rendering engine: activate to sort column descending">
+                                                            @Localizer["Age"]
+                                                        </th>
+                                                        <th class="sorting sorting_asc" tabindex="0" aria-controls="example1" rowspan="1" colspan="1" aria-sort="ascending" aria-label="Rendering engine: activate to sort column descending">
+                                                            @Localizer["Gender"]
+                                                        </th>
+                                                        <th class="sorting" tabindex="0" aria-controls="example1" rowspan="1" colspan="1" aria-label="CSS grade: activate to sort column ascending">
+                                                            @Localizer["Actions"]
+                                                        </th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    @if (Model?.Doctor?.Patients != null && Model.Doctor.Patients.Any())
+                                                    {
+                                                        foreach (var item in Model.Doctor.Patients.OrderByDescending(a => a.CreationDate))
+                                                        {
+                                                            if (item != null)
+                                                            {
+                                                                <tr class="odd">
+                                                                    <td>@item.FullName</td>
+                                                                    <td>@item.Phone</td>
+                                                                    <td>@item.Age</td>
+                                                                    <td>@(item.Gender ? "Men" : "Women")</td>
+                                                                    <td>
+                                                                        <button onclick=DeletePatient("/Profile/DeletePatient/@item.Id") class="btn btn-sm btn-danger">
+                                                                            <i class="fas fa-trash-alt"></i>
+                                                                        </button>
+                                                                        <button class="btn btn-sm btn-primary view-patient-details" data-id="@item.Id">
+                                                                            <i class="fa fa-eye"></i>
+                                                                        </button>
+                                                                    </td>
+                                                                </tr>
+                                                            }
+                                                        }
+                                                    }
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <!-- Patient Model Form -->
+                        <div id="patientModel" class="modal">
+                            <!-- Modal content -->
+                            <div class="modal-content">
+                                <h4 class="modal-title">@Localizer["Add"]</h4>
+                                <span class="close closePatient">&times;</span>
+                                <hr class="mt-3 mb-3">
+                                <form asp-action="AddPatient" role="form" method="post">
+
+                                    <input type="hidden" asp-for="Patient.DoctorId" value="@Model.Doctor.Id" />
+
+                                    @*FullName*@
+                                    <label for="fullName">@Localizer["FullName"]</label>
+                                    <div class="form-group mb-3">
+                                        <i class="fa fa-file-signature"></i>
+                                        <input asp-for="Patient.FullName" id="fullName" type="text" class="form-control">
+                                    </div>
+
+                                    @*Phone*@
+                                    <label for="phone">@Localizer["Phone"]</label>
+                                    <div class="form-group mb-3">
+                                        <i class="fas fa-phone"></i>
+                                        <input asp-for="Patient.Phone" id="phone" type="number" class="form-control">
+                                    </div>
+
+                                    @*Age*@
+                                    <label for="age">@Localizer["Age"]</label>
+                                    <div class="form-group mb-3">
+                                        <i class="fa fa-user"></i>
+                                        <input asp-for="Patient.Age" id="age" type="number" class="form-control">
+                                    </div>
+
+
+                                    <label for="gender">@Localizer["Gender"]</label>
+                                    <div class="form-group form-group-select mb-3">
+                                        <select asp-for="Patient.Gender" class="round" id="gender">
+                                            <option value="True">Men</option>
+                                            <option value="False">Women</option>
+                                        </select>
+                                    </div>
+
+
+                                    <button class="submit btn bt-success" type="submit">@Localizer["Save"]</button>
+
+                                </form>
+                            </div>
+                        </div>
+
+
+                        <!-- Patient Details Modal -->
+                        <div class="modal" id="patientDetailsModal" tabindex="-1" aria-labelledby="patientModalLabel" aria-hidden="true">
+                            <div class="modal-content">
+                                <h5 class="modal-title" id="patientModalLabel">Patient Details</h5>
+                                <span class="close closePatientDetails">&times;</span>
+                                <hr class="mt-3 mb-3">
+                                <ul>
+                                    <li class="mb-2">
+                                        Full Name: 
+                                        <span id="patientName"></span>
+                                    </li>
+                                    <li class="mb-2">
+                                        Phone: 
+                                        <span id="patientPhone"></span>
+                                    </li>
+                                    <li class="mb-2">
+                                        Age:
+                                        <span id="patientAge"></span>
+                                    </li>
+                                    <li class="mb-3">
+                                        Gender:
+                                        <span id="patientGender"></span>
+                                    </li>
+
+                                    <h4 class="mb-2">Lung Cancers:</h4>
+                                    <table class="table table-bordered table-striped" id="lungCancersTable">
+                                        <thead>
+                                            <tr>
+                                                <th>#</th>
+                                                <th>Status</th>
+                                                <th>Date</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <!-- Data will be inserted here dynamically -->
+                                        </tbody>
+                                    </table>
+
+
+                                    <h4 class="mb-2 mt-4">Parkinsons:</h4>
+                                    <table class="table table-bordered table-striped" id="parkinsons">
+                                        <thead>
+                                            <tr>
+                                                <th>#</th>
+                                                <th>Status</th>
+                                                <th>Date</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <!-- Data will be inserted here dynamically -->
+                                        </tbody>
+                                    </table>
+                                </ul>   
+                            </div>
+                        </div>
+
+
+
+                    </div>
+                    <!-- End historical for modle -->
+                    <!--==================================================================================-->
+                    <!-- Start historical for hardware -->
+                    <!-- End historical for hardware -->
+                    <!--==================================================================================-->
+               
+                </div>
+            </div>
+            <!-- End Pages -->
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/js/profile.js" asp-append-version="true"></script>
+    <script src="~/rev/veno-box/venobox.min.js"></script>
+    <script src="~/ajax/ClinicImage.js"></script>
+    <script src="~/ajax/Model.js" asp-append-version="true"></script>
+    <!-- DataTables  & Plugins -->
+    <script src="~/Admin/plugins/datatables/jquery.dataTables.min.js"></script>
+    <script src="~/Admin/plugins/datatables-bs4/js/dataTables.bootstrap4.min.js"></script>
+    <script src="~/Admin/plugins/datatables-responsive/js/dataTables.responsive.min.js"></script>
+    <script src="~/Admin/plugins/datatables-responsive/js/responsive.bootstrap4.min.js"></script>
+    <script src="~/Admin/plugins/datatables-buttons/js/dataTables.buttons.min.js"></script>
+    <script src="~/Admin/plugins/datatables-buttons/js/buttons.bootstrap4.min.js"></script>
+    <script src="~/Admin/plugins/pdfmake/pdfmake.min.js"></script>
+    <script src="~/Admin/plugins/pdfmake/vfs_fonts.js"></script>
+    <script src="~/Admin/plugins/datatables-buttons/js/buttons.html5.min.js"></script>
+    <script src="~/Admin/plugins/datatables-buttons/js/buttons.print.min.js"></script>
+    <script src="~/Admin/plugins/datatables-buttons/js/buttons.colVis.min.js"></script>
+    <!-- Page specific script -->
+    <script>
+        $(function () {
+            $("#example1").DataTable({
+                "responsive": true, "lengthChange": false, "autoWidth": false,
+                "buttons": ["copy", "csv", "excel", "pdf", "print", "colvis"]
+            }).buttons().container().appendTo('#example1_wrapper .col-md-6:eq(0)');
+            $("#example3").DataTable({
+                "responsive": true, "lengthChange": false, "autoWidth": false,
+                "buttons": ["copy", "csv", "excel", "pdf", "print", "colvis"]
+            }).buttons().container().appendTo('#example3_wrapper .col-md-6:eq(0)');
+            $("#example4").DataTable({
+                "responsive": true, "lengthChange": false, "autoWidth": false,
+                "buttons": ["copy", "csv", "excel", "pdf", "print", "colvis"]
+            }).buttons().container().appendTo('#example4_wrapper .col-md-6:eq(0)');
+            $("#example6").DataTable({
+                "responsive": true, "lengthChange": false, "autoWidth": false,
+                "buttons": ["copy", "csv", "excel", "pdf", "print", "colvis"]
+            }).buttons().container().appendTo('#example6_wrapper .col-md-6:eq(0)');
+            $("#example5").DataTable({
+                "responsive": true, "lengthChange": false, "autoWidth": false,
+                "buttons": ["copy", "csv", "excel", "pdf", "print", "colvis"]
+            }).buttons().container().appendTo('#example5_wrapper .col-md-6:eq(0)');
+        });
+    </script>
+    <script>
+
+
+    </script>
+    @{
+        await Html.RenderPartialAsync("_Notification");
+    }
+}

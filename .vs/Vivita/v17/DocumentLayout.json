@@ -1,0 +1,1126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IT\\Project\\Vivita\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|d:\\it\\project\\vivita\\vivita\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|solutionrelative:vivita\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B51D6D-AF6E-4B66-9E4E-1885F12A1CC9}|Domain\\Domain.csproj|d:\\it\\project\\vivita\\domain\\viewmodels\\patientdetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B51D6D-AF6E-4B66-9E4E-1885F12A1CC9}|Domain\\Domain.csproj|solutionrelative:domain\\viewmodels\\patientdetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|d:\\it\\project\\vivita\\vivita\\controllers\\modelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|solutionrelative:vivita\\controllers\\modelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B51D6D-AF6E-4B66-9E4E-1885F12A1CC9}|Domain\\Domain.csproj|d:\\it\\project\\vivita\\domain\\models\\tbparkinson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B51D6D-AF6E-4B66-9E4E-1885F12A1CC9}|Domain\\Domain.csproj|solutionrelative:domain\\models\\tbparkinson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|d:\\it\\project\\vivita\\vivita\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|solutionrelative:vivita\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC22D89-3A76-438D-B9FA-D66E83E2B07F}|Services\\Services.csproj|d:\\it\\project\\vivita\\services\\user service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC22D89-3A76-438D-B9FA-D66E83E2B07F}|Services\\Services.csproj|solutionrelative:services\\user service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|d:\\it\\project\\vivita\\vivita\\vivita.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|solutionrelative:vivita\\vivita.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|d:\\it\\project\\vivita\\vivita\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|solutionrelative:vivita\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|d:\\it\\project\\vivita\\vivita\\areas\\admin\\views\\patients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|solutionrelative:vivita\\areas\\admin\\views\\patients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|d:\\it\\project\\vivita\\vivita\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|solutionrelative:vivita\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B51D6D-AF6E-4B66-9E4E-1885F12A1CC9}|Domain\\Domain.csproj|d:\\it\\project\\vivita\\domain\\viewmodels\\dashboardpagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B51D6D-AF6E-4B66-9E4E-1885F12A1CC9}|Domain\\Domain.csproj|solutionrelative:domain\\viewmodels\\dashboardpagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|d:\\it\\project\\vivita\\vivita\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|solutionrelative:vivita\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|d:\\it\\project\\vivita\\vivita\\areas\\admin\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|solutionrelative:vivita\\areas\\admin\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|d:\\it\\project\\vivita\\vivita\\areas\\admin\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|solutionrelative:vivita\\areas\\admin\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B51D6D-AF6E-4B66-9E4E-1885F12A1CC9}|Domain\\Domain.csproj|d:\\it\\project\\vivita\\domain\\models\\tbpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B51D6D-AF6E-4B66-9E4E-1885F12A1CC9}|Domain\\Domain.csproj|solutionrelative:domain\\models\\tbpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|d:\\it\\project\\vivita\\vivita\\wwwroot\\js\\profile.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|solutionrelative:vivita\\wwwroot\\js\\profile.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|d:\\it\\project\\vivita\\vivita\\views\\model\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|solutionrelative:vivita\\views\\model\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B51D6D-AF6E-4B66-9E4E-1885F12A1CC9}|Domain\\Domain.csproj|d:\\it\\project\\vivita\\domain\\interfaces repository\\iparkinsonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B51D6D-AF6E-4B66-9E4E-1885F12A1CC9}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces repository\\iparkinsonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6269C74D-4292-4CDF-BAA0-761EB2677209}|DataAccess_EF\\DataAccess_EF.csproj|d:\\it\\project\\vivita\\dataaccess_ef\\repositories\\parkinsonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6269C74D-4292-4CDF-BAA0-761EB2677209}|DataAccess_EF\\DataAccess_EF.csproj|solutionrelative:dataaccess_ef\\repositories\\parkinsonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6269C74D-4292-4CDF-BAA0-761EB2677209}|DataAccess_EF\\DataAccess_EF.csproj|d:\\it\\project\\vivita\\dataaccess_ef\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6269C74D-4292-4CDF-BAA0-761EB2677209}|DataAccess_EF\\DataAccess_EF.csproj|solutionrelative:dataaccess_ef\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6269C74D-4292-4CDF-BAA0-761EB2677209}|DataAccess_EF\\DataAccess_EF.csproj|d:\\it\\project\\vivita\\dataaccess_ef\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6269C74D-4292-4CDF-BAA0-761EB2677209}|DataAccess_EF\\DataAccess_EF.csproj|solutionrelative:dataaccess_ef\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6269C74D-4292-4CDF-BAA0-761EB2677209}|DataAccess_EF\\DataAccess_EF.csproj|d:\\it\\project\\vivita\\dataaccess_ef\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6269C74D-4292-4CDF-BAA0-761EB2677209}|DataAccess_EF\\DataAccess_EF.csproj|solutionrelative:dataaccess_ef\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B51D6D-AF6E-4B66-9E4E-1885F12A1CC9}|Domain\\Domain.csproj|d:\\it\\project\\vivita\\domain\\interfaces repository\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B51D6D-AF6E-4B66-9E4E-1885F12A1CC9}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces repository\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6269C74D-4292-4CDF-BAA0-761EB2677209}|DataAccess_EF\\DataAccess_EF.csproj|d:\\it\\project\\vivita\\dataaccess_ef\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6269C74D-4292-4CDF-BAA0-761EB2677209}|DataAccess_EF\\DataAccess_EF.csproj|solutionrelative:dataaccess_ef\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B51D6D-AF6E-4B66-9E4E-1885F12A1CC9}|Domain\\Domain.csproj|d:\\it\\project\\vivita\\domain\\interfaces repository\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B51D6D-AF6E-4B66-9E4E-1885F12A1CC9}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces repository\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B51D6D-AF6E-4B66-9E4E-1885F12A1CC9}|Domain\\Domain.csproj|d:\\it\\project\\vivita\\domain\\interfaces repository\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B51D6D-AF6E-4B66-9E4E-1885F12A1CC9}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces repository\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|d:\\it\\project\\vivita\\vivita\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|solutionrelative:vivita\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TSServer\\lib.dom.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B51D6D-AF6E-4B66-9E4E-1885F12A1CC9}|Domain\\Domain.csproj|d:\\it\\project\\vivita\\domain\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B51D6D-AF6E-4B66-9E4E-1885F12A1CC9}|Domain\\Domain.csproj|solutionrelative:domain\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|d:\\it\\project\\vivita\\vivita\\services\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|solutionrelative:vivita\\services\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B51D6D-AF6E-4B66-9E4E-1885F12A1CC9}|Domain\\Domain.csproj|d:\\it\\project\\vivita\\domain\\models\\tblungcancer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B51D6D-AF6E-4B66-9E4E-1885F12A1CC9}|Domain\\Domain.csproj|solutionrelative:domain\\models\\tblungcancer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|d:\\it\\project\\vivita\\vivita\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|solutionrelative:vivita\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|d:\\it\\project\\vivita\\vivita\\wwwroot\\ajax\\model.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|solutionrelative:vivita\\wwwroot\\ajax\\model.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B51D6D-AF6E-4B66-9E4E-1885F12A1CC9}|Domain\\Domain.csproj|d:\\it\\project\\vivita\\domain\\viewmodels\\modelpagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B51D6D-AF6E-4B66-9E4E-1885F12A1CC9}|Domain\\Domain.csproj|solutionrelative:domain\\viewmodels\\modelpagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|d:\\it\\project\\vivita\\vivita\\resources\\views\\model\\index.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|solutionrelative:vivita\\resources\\views\\model\\index.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6269C74D-4292-4CDF-BAA0-761EB2677209}|DataAccess_EF\\DataAccess_EF.csproj|d:\\it\\project\\vivita\\dataaccess_ef\\repositories\\lungcancerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6269C74D-4292-4CDF-BAA0-761EB2677209}|DataAccess_EF\\DataAccess_EF.csproj|solutionrelative:dataaccess_ef\\repositories\\lungcancerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B51D6D-AF6E-4B66-9E4E-1885F12A1CC9}|Domain\\Domain.csproj|d:\\it\\project\\vivita\\domain\\interfaces repository\\ilungcancerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B51D6D-AF6E-4B66-9E4E-1885F12A1CC9}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces repository\\ilungcancerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|d:\\it\\project\\vivita\\vivita\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|solutionrelative:vivita\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|d:\\it\\project\\vivita\\vivita\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|solutionrelative:vivita\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|d:\\it\\project\\vivita\\vivita\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|solutionrelative:vivita\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|d:\\it\\project\\vivita\\vivita\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|solutionrelative:vivita\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|d:\\it\\project\\vivita\\vivita\\areas\\admin\\controllers\\specializationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|solutionrelative:vivita\\areas\\admin\\controllers\\specializationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|d:\\it\\project\\vivita\\vivita\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|solutionrelative:vivita\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B51D6D-AF6E-4B66-9E4E-1885F12A1CC9}|Domain\\Domain.csproj|d:\\it\\project\\vivita\\domain\\models\\tbdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B51D6D-AF6E-4B66-9E4E-1885F12A1CC9}|Domain\\Domain.csproj|solutionrelative:domain\\models\\tbdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|d:\\it\\project\\vivita\\vivita\\areas\\admin\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|solutionrelative:vivita\\areas\\admin\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6269C74D-4292-4CDF-BAA0-761EB2677209}|DataAccess_EF\\DataAccess_EF.csproj|d:\\it\\project\\vivita\\dataaccess_ef\\repositories\\registrationrequestsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6269C74D-4292-4CDF-BAA0-761EB2677209}|DataAccess_EF\\DataAccess_EF.csproj|solutionrelative:dataaccess_ef\\repositories\\registrationrequestsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B51D6D-AF6E-4B66-9E4E-1885F12A1CC9}|Domain\\Domain.csproj|d:\\it\\project\\vivita\\domain\\viewmodels\\profilepagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B51D6D-AF6E-4B66-9E4E-1885F12A1CC9}|Domain\\Domain.csproj|solutionrelative:domain\\viewmodels\\profilepagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|d:\\it\\project\\vivita\\vivita\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|solutionrelative:vivita\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B0F560-0CFB-415B-95EE-86F91A115602}|Utility\\Utility.csproj|d:\\it\\project\\vivita\\utility\\consts\\modebaseurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B0F560-0CFB-415B-95EE-86F91A115602}|Utility\\Utility.csproj|solutionrelative:utility\\consts\\modebaseurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|d:\\it\\project\\vivita\\vivita\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|solutionrelative:vivita\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|d:\\it\\project\\vivita\\vivita\\wwwroot\\css\\app.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|solutionrelative:vivita\\wwwroot\\css\\app.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|d:\\it\\project\\vivita\\vivita\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|solutionrelative:vivita\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|d:\\it\\project\\vivita\\vivita\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|solutionrelative:vivita\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|d:\\it\\project\\vivita\\vivita\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|solutionrelative:vivita\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|d:\\it\\project\\vivita\\vivita\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|solutionrelative:vivita\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC22D89-3A76-438D-B9FA-D66E83E2B07F}|Services\\Services.csproj|d:\\it\\project\\vivita\\services\\user service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC22D89-3A76-438D-B9FA-D66E83E2B07F}|Services\\Services.csproj|solutionrelative:services\\user service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|d:\\it\\project\\vivita\\vivita\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|solutionrelative:vivita\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|d:\\it\\project\\vivita\\vivita\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|solutionrelative:vivita\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|d:\\it\\project\\vivita\\vivita\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0547ACF8-D018-4FE4-97B1-788C0B373FA5}|Vivita\\Vivita.csproj|solutionrelative:vivita\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B0F560-0CFB-415B-95EE-86F91A115602}|Utility\\Utility.csproj|d:\\it\\project\\vivita\\utility\\consts\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B0F560-0CFB-415B-95EE-86F91A115602}|Utility\\Utility.csproj|solutionrelative:utility\\consts\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B51D6D-AF6E-4B66-9E4E-1885F12A1CC9}|Domain\\Domain.csproj|d:\\it\\project\\vivita\\domain\\interfaces repository\\iregistrationrequestsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B51D6D-AF6E-4B66-9E4E-1885F12A1CC9}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces repository\\iregistrationrequestsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B51D6D-AF6E-4B66-9E4E-1885F12A1CC9}|Domain\\Domain.csproj|d:\\it\\project\\vivita\\domain\\interfaces repository\\ispecializationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B51D6D-AF6E-4B66-9E4E-1885F12A1CC9}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces repository\\ispecializationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B51D6D-AF6E-4B66-9E4E-1885F12A1CC9}|Domain\\Domain.csproj|d:\\it\\project\\vivita\\domain\\models\\tbregistrationrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B51D6D-AF6E-4B66-9E4E-1885F12A1CC9}|Domain\\Domain.csproj|solutionrelative:domain\\models\\tbregistrationrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6269C74D-4292-4CDF-BAA0-761EB2677209}|DataAccess_EF\\DataAccess_EF.csproj|d:\\it\\project\\vivita\\dataaccess_ef\\repositories\\specializationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6269C74D-4292-4CDF-BAA0-761EB2677209}|DataAccess_EF\\DataAccess_EF.csproj|solutionrelative:dataaccess_ef\\repositories\\specializationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6269C74D-4292-4CDF-BAA0-761EB2677209}|DataAccess_EF\\DataAccess_EF.csproj|d:\\it\\project\\vivita\\dataaccess_ef\\repositories\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6269C74D-4292-4CDF-BAA0-761EB2677209}|DataAccess_EF\\DataAccess_EF.csproj|solutionrelative:dataaccess_ef\\repositories\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6269C74D-4292-4CDF-BAA0-761EB2677209}|DataAccess_EF\\DataAccess_EF.csproj|d:\\it\\project\\vivita\\dataaccess_ef\\repositories\\clinicimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6269C74D-4292-4CDF-BAA0-761EB2677209}|DataAccess_EF\\DataAccess_EF.csproj|solutionrelative:dataaccess_ef\\repositories\\clinicimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B51D6D-AF6E-4B66-9E4E-1885F12A1CC9}|Domain\\Domain.csproj|d:\\it\\project\\vivita\\domain\\interfaces repository\\iclinicimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B51D6D-AF6E-4B66-9E4E-1885F12A1CC9}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces repository\\iclinicimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6269C74D-4292-4CDF-BAA0-761EB2677209}|DataAccess_EF\\DataAccess_EF.csproj|d:\\it\\project\\vivita\\dataaccess_ef\\migrations\\20250314141534_initial database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6269C74D-4292-4CDF-BAA0-761EB2677209}|DataAccess_EF\\DataAccess_EF.csproj|solutionrelative:dataaccess_ef\\migrations\\20250314141534_initial database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6269C74D-4292-4CDF-BAA0-761EB2677209}|DataAccess_EF\\DataAccess_EF.csproj|d:\\it\\project\\vivita\\dataaccess_ef\\migrations\\20250403124930_add tbparkinson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6269C74D-4292-4CDF-BAA0-761EB2677209}|DataAccess_EF\\DataAccess_EF.csproj|solutionrelative:dataaccess_ef\\migrations\\20250403124930_add tbparkinson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TbParkinson.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Domain\\Models\\TbParkinson.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\TbParkinson.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Domain\\Models\\TbParkinson.cs",
+              "RelativeToolTip": "Domain\\Models\\TbParkinson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T23:23:08.794Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModelController.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Vivita\\Controllers\\ModelController.cs",
+              "RelativeDocumentMoniker": "Vivita\\Controllers\\ModelController.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Vivita\\Controllers\\ModelController.cs",
+              "RelativeToolTip": "Vivita\\Controllers\\ModelController.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAMwIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:31:31.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientDetailsVM.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Domain\\ViewModels\\PatientDetailsVM.cs",
+              "RelativeDocumentMoniker": "Domain\\ViewModels\\PatientDetailsVM.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Domain\\ViewModels\\PatientDetailsVM.cs",
+              "RelativeToolTip": "Domain\\ViewModels\\PatientDetailsVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:33:02.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Services\\User Service\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\User Service\\UserService.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Services\\User Service\\UserService.cs",
+              "RelativeToolTip": "Services\\User Service\\UserService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAkwCUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T14:00:53.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Vivita\\Program.cs",
+              "RelativeDocumentMoniker": "Vivita\\Program.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Vivita\\Program.cs",
+              "RelativeToolTip": "Vivita\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T14:03:39.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Vivita\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Vivita\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Vivita\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Vivita\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T11:59:55.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Vivita\\Areas\\Admin\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "Vivita\\Areas\\Admin\\Controllers\\PatientsController.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Vivita\\Areas\\Admin\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "Vivita\\Areas\\Admin\\Controllers\\PatientsController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwB0AAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:57:11.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Vivita\\Areas\\Admin\\Views\\Patients\\Details.cshtml",
+              "RelativeDocumentMoniker": "Vivita\\Areas\\Admin\\Views\\Patients\\Details.cshtml",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Vivita\\Areas\\Admin\\Views\\Patients\\Details.cshtml",
+              "RelativeToolTip": "Vivita\\Areas\\Admin\\Views\\Patients\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T00:40:49.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Vivita\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Vivita\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Vivita\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Vivita\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwEYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T22:35:25.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DashboardPageVM.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Domain\\ViewModels\\DashboardPageVM.cs",
+              "RelativeDocumentMoniker": "Domain\\ViewModels\\DashboardPageVM.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Domain\\ViewModels\\DashboardPageVM.cs",
+              "RelativeToolTip": "Domain\\ViewModels\\DashboardPageVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:31:42.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vivita.csproj",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Vivita\\Vivita.csproj",
+              "RelativeDocumentMoniker": "Vivita\\Vivita.csproj",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Vivita\\Vivita.csproj",
+              "RelativeToolTip": "Vivita\\Vivita.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-19T16:16:18.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Vivita\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Vivita\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Vivita\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Vivita\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:29:07.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Vivita\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "Vivita\\Controllers\\ProfileController.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Vivita\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "Vivita\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAA0wMEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T12:33:27.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Vivita\\Areas\\Admin\\Views\\Patients\\Index.cshtml",
+              "RelativeDocumentMoniker": "Vivita\\Areas\\Admin\\Views\\Patients\\Index.cshtml",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Vivita\\Areas\\Admin\\Views\\Patients\\Index.cshtml",
+              "RelativeToolTip": "Vivita\\Areas\\Admin\\Views\\Patients\\Index.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAkwEwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T00:01:23.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TbPatient.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Domain\\Models\\TbPatient.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\TbPatient.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Domain\\Models\\TbPatient.cs",
+              "RelativeToolTip": "Domain\\Models\\TbPatient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:20:57.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20250403124930_add TbParkinson.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\DataAccess_EF\\Migrations\\20250403124930_add TbParkinson.cs",
+              "RelativeDocumentMoniker": "DataAccess_EF\\Migrations\\20250403124930_add TbParkinson.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\DataAccess_EF\\Migrations\\20250403124930_add TbParkinson.cs",
+              "RelativeToolTip": "DataAccess_EF\\Migrations\\20250403124930_add TbParkinson.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAmwCsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T12:49:31.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\DataAccess_EF\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "DataAccess_EF\\UnitOfWork.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\DataAccess_EF\\UnitOfWork.cs",
+              "RelativeToolTip": "DataAccess_EF\\UnitOfWork.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA9wCIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:14:25.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "profile.js",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\js\\profile.js",
+              "RelativeDocumentMoniker": "Vivita\\wwwroot\\js\\profile.js",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\js\\profile.js",
+              "RelativeToolTip": "Vivita\\wwwroot\\js\\profile.js",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAkwNwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-17T11:29:36.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IDoctorRepository.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Domain\\Interfaces Repository\\IDoctorRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces Repository\\IDoctorRepository.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Domain\\Interfaces Repository\\IDoctorRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces Repository\\IDoctorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T12:51:57.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DoctorRepository.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\DataAccess_EF\\Repositories\\DoctorRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess_EF\\Repositories\\DoctorRepository.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\DataAccess_EF\\Repositories\\DoctorRepository.cs",
+              "RelativeToolTip": "DataAccess_EF\\Repositories\\DoctorRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:54:38.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IParkinsonRepository.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Domain\\Interfaces Repository\\IParkinsonRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces Repository\\IParkinsonRepository.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Domain\\Interfaces Repository\\IParkinsonRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces Repository\\IParkinsonRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T23:31:41.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ParkinsonRepository.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\DataAccess_EF\\Repositories\\ParkinsonRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess_EF\\Repositories\\ParkinsonRepository.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\DataAccess_EF\\Repositories\\ParkinsonRepository.cs",
+              "RelativeToolTip": "DataAccess_EF\\Repositories\\ParkinsonRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAvwAsAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T21:37:40.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Vivita\\Views\\Model\\Index.cshtml",
+              "RelativeDocumentMoniker": "Vivita\\Views\\Model\\Index.cshtml",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Vivita\\Views\\Model\\Index.cshtml",
+              "RelativeToolTip": "Vivita\\Views\\Model\\Index.cshtml",
+              "ViewState": "AgIAAB4CAAAAAAAAAAAhwCwCAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T19:38:57.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\DataAccess_EF\\Repositories\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess_EF\\Repositories\\PatientRepository.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\DataAccess_EF\\Repositories\\PatientRepository.cs",
+              "RelativeToolTip": "DataAccess_EF\\Repositories\\PatientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:55:08.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\DataAccess_EF\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess_EF\\Repositories\\BaseRepository.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\DataAccess_EF\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "DataAccess_EF\\Repositories\\BaseRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAnwCwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:52:35.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IContactRepository.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Domain\\Interfaces Repository\\IContactRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces Repository\\IContactRepository.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Domain\\Interfaces Repository\\IContactRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces Repository\\IContactRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T12:51:31.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Model.js",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\ajax\\Model.js",
+              "RelativeDocumentMoniker": "Vivita\\wwwroot\\ajax\\Model.js",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\ajax\\Model.js",
+              "RelativeToolTip": "Vivita\\wwwroot\\ajax\\Model.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-17T23:21:35.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Domain\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Domain\\IUnitOfWork.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Domain\\IUnitOfWork.cs",
+              "RelativeToolTip": "Domain\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:10:41.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "lib.dom.d.ts",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TSServer\\lib.dom.d.ts",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TSServer\\lib.dom.d.ts",
+              "ViewState": "AgIAAFwJAAAAAAAAAAAAAGMJAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-17T12:31:51.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Vivita\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "Vivita\\Views\\About\\Index.cshtml",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Vivita\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "Vivita\\Views\\About\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAywBQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T13:36:45.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Domain\\Interfaces Repository\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces Repository\\IBaseRepository.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Domain\\Interfaces Repository\\IBaseRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces Repository\\IBaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T12:50:31.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TbLungCancer.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Domain\\Models\\TbLungCancer.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\TbLungCancer.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Domain\\Models\\TbLungCancer.cs",
+              "RelativeToolTip": "Domain\\Models\\TbLungCancer.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwCYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:19:05.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AiService.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Vivita\\services\\AiService.cs",
+              "RelativeDocumentMoniker": "Vivita\\services\\AiService.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Vivita\\services\\AiService.cs",
+              "RelativeToolTip": "Vivita\\services\\AiService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIAywB0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:01:57.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "Vivita\\wwwroot\\css\\style.css",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "Vivita\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAAPEbAAAAAAAAAAAmwP0bAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-16T11:10:35.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LungCancerRepository.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\DataAccess_EF\\Repositories\\LungCancerRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess_EF\\Repositories\\LungCancerRepository.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\DataAccess_EF\\Repositories\\LungCancerRepository.cs",
+              "RelativeToolTip": "DataAccess_EF\\Repositories\\LungCancerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:28:28.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ILungCancerRepository.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Domain\\Interfaces Repository\\ILungCancerRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces Repository\\ILungCancerRepository.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Domain\\Interfaces Repository\\ILungCancerRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces Repository\\ILungCancerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:27:18.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ModelPageVM.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Domain\\ViewModels\\ModelPageVM.cs",
+              "RelativeDocumentMoniker": "Domain\\ViewModels\\ModelPageVM.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Domain\\ViewModels\\ModelPageVM.cs",
+              "RelativeToolTip": "Domain\\ViewModels\\ModelPageVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:39:39.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.resx",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Vivita\\Resources\\Views\\Model\\Index.resx",
+              "RelativeDocumentMoniker": "Vivita\\Resources\\Views\\Model\\Index.resx",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Vivita\\Resources\\Views\\Model\\Index.resx",
+              "RelativeToolTip": "Vivita\\Resources\\Views\\Model\\Index.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-01T23:41:56.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Vivita\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "Vivita\\Controllers\\AboutController.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Vivita\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "Vivita\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:36:20.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Vivita\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Vivita\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Vivita\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Vivita\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T22:33:30.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SpecializationController.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Vivita\\Areas\\Admin\\Controllers\\SpecializationController.cs",
+              "RelativeDocumentMoniker": "Vivita\\Areas\\Admin\\Controllers\\SpecializationController.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Vivita\\Areas\\Admin\\Controllers\\SpecializationController.cs",
+              "RelativeToolTip": "Vivita\\Areas\\Admin\\Controllers\\SpecializationController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBPwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:51:24.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Vivita\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Vivita\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Vivita\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Vivita\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T23:45:56.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Vivita\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Vivita\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Vivita\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Vivita\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAABBwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:45:09.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "TbDoctor.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Domain\\Models\\TbDoctor.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\TbDoctor.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Domain\\Models\\TbDoctor.cs",
+              "RelativeToolTip": "Domain\\Models\\TbDoctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T19:13:31.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Vivita\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Vivita\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Vivita\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Vivita\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAMBCwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T11:51:36.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Vivita\\Areas\\Admin\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Vivita\\Areas\\Admin\\Controllers\\ContactController.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Vivita\\Areas\\Admin\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Vivita\\Areas\\Admin\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAnwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:53:44.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ProfilePageVM.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Domain\\ViewModels\\ProfilePageVM.cs",
+              "RelativeDocumentMoniker": "Domain\\ViewModels\\ProfilePageVM.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Domain\\ViewModels\\ProfilePageVM.cs",
+              "RelativeToolTip": "Domain\\ViewModels\\ProfilePageVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T19:17:24.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RegistrationRequestsRepository.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\DataAccess_EF\\Repositories\\RegistrationRequestsRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess_EF\\Repositories\\RegistrationRequestsRepository.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\DataAccess_EF\\Repositories\\RegistrationRequestsRepository.cs",
+              "RelativeToolTip": "DataAccess_EF\\Repositories\\RegistrationRequestsRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwBkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:53:47.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Vivita\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Vivita\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Vivita\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Vivita\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T22:32:59.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ModeBaseUrl.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Utility\\Consts\\ModeBaseUrl.cs",
+              "RelativeDocumentMoniker": "Utility\\Consts\\ModeBaseUrl.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Utility\\Consts\\ModeBaseUrl.cs",
+              "RelativeToolTip": "Utility\\Consts\\ModeBaseUrl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:10:24.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Vivita\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Vivita\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Vivita\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Vivita\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA4wHEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T12:15:07.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Vivita\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "Vivita\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Vivita\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "Vivita\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T18:54:42.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "login.css",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\css\\login.css",
+              "RelativeDocumentMoniker": "Vivita\\wwwroot\\css\\login.css",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\css\\login.css",
+              "RelativeToolTip": "Vivita\\wwwroot\\css\\login.css",
+              "ViewState": "AgIAACMAAAAAAAAAAAAkwB8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-16T12:06:57.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "app.rtl.css",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\css\\app.rtl.css",
+              "RelativeDocumentMoniker": "Vivita\\wwwroot\\css\\app.rtl.css",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\css\\app.rtl.css",
+              "RelativeToolTip": "Vivita\\wwwroot\\css\\app.rtl.css",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAawAcBAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-17T22:32:15.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Vivita\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Vivita\\Controllers\\ContactController.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Vivita\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Vivita\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA/wCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:54:00.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Vivita\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Vivita\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Vivita\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Vivita\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwB8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:06:01.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Vivita\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Vivita\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Vivita\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Vivita\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T11:57:34.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Vivita\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Vivita\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Vivita\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Vivita\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-14T14:44:51.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20250314141534_Initial Database.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\DataAccess_EF\\Migrations\\20250314141534_Initial Database.cs",
+              "RelativeDocumentMoniker": "DataAccess_EF\\Migrations\\20250314141534_Initial Database.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\DataAccess_EF\\Migrations\\20250314141534_Initial Database.cs",
+              "RelativeToolTip": "DataAccess_EF\\Migrations\\20250314141534_Initial Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T14:15:34.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Vivita\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Vivita\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Vivita\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Vivita\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-14T14:15:07.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Services\\User Service\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\User Service\\IUserService.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Services\\User Service\\IUserService.cs",
+              "RelativeToolTip": "Services\\User Service\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T14:00:25.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Utility\\Consts\\Roles.cs",
+              "RelativeDocumentMoniker": "Utility\\Consts\\Roles.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Utility\\Consts\\Roles.cs",
+              "RelativeToolTip": "Utility\\Consts\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:59:59.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "TbRegistrationRequests.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Domain\\Models\\TbRegistrationRequests.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\TbRegistrationRequests.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Domain\\Models\\TbRegistrationRequests.cs",
+              "RelativeToolTip": "Domain\\Models\\TbRegistrationRequests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:57:07.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "SpecializationRepository.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\DataAccess_EF\\Repositories\\SpecializationRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess_EF\\Repositories\\SpecializationRepository.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\DataAccess_EF\\Repositories\\SpecializationRepository.cs",
+              "RelativeToolTip": "DataAccess_EF\\Repositories\\SpecializationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:54:09.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ContactRepository.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\DataAccess_EF\\Repositories\\ContactRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess_EF\\Repositories\\ContactRepository.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\DataAccess_EF\\Repositories\\ContactRepository.cs",
+              "RelativeToolTip": "DataAccess_EF\\Repositories\\ContactRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:53:26.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ClinicImageRepository.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\DataAccess_EF\\Repositories\\ClinicImageRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess_EF\\Repositories\\ClinicImageRepository.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\DataAccess_EF\\Repositories\\ClinicImageRepository.cs",
+              "RelativeToolTip": "DataAccess_EF\\Repositories\\ClinicImageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAMBSwAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:51:57.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ISpecializationRepository.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Domain\\Interfaces Repository\\ISpecializationRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces Repository\\ISpecializationRepository.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Domain\\Interfaces Repository\\ISpecializationRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces Repository\\ISpecializationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T12:52:54.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IRegistrationRequestsRepository.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Domain\\Interfaces Repository\\IRegistrationRequestsRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces Repository\\IRegistrationRequestsRepository.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Domain\\Interfaces Repository\\IRegistrationRequestsRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces Repository\\IRegistrationRequestsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T12:52:28.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "IClinicImageRepository.cs",
+              "DocumentMoniker": "D:\\IT\\Project\\Vivita\\Domain\\Interfaces Repository\\IClinicImageRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces Repository\\IClinicImageRepository.cs",
+              "ToolTip": "D:\\IT\\Project\\Vivita\\Domain\\Interfaces Repository\\IClinicImageRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces Repository\\IClinicImageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T12:51:07.838Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

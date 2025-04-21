@@ -1,0 +1,46 @@
+E:\Asp.net Projects\Vivita\Utility\bin\Debug\net6.0\Utility.deps.json
+E:\Asp.net Projects\Vivita\Utility\bin\Debug\net6.0\Utility.dll
+E:\Asp.net Projects\Vivita\Utility\bin\Debug\net6.0\Utility.pdb
+E:\Asp.net Projects\Vivita\Utility\bin\Debug\net6.0\Domain.dll
+E:\Asp.net Projects\Vivita\Utility\bin\Debug\net6.0\Domain.pdb
+E:\Asp.net Projects\Vivita\Utility\obj\Debug\net6.0\Utility.csproj.AssemblyReference.cache
+E:\Asp.net Projects\Vivita\Utility\obj\Debug\net6.0\Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\Asp.net Projects\Vivita\Utility\obj\Debug\net6.0\Utility.AssemblyInfoInputs.cache
+E:\Asp.net Projects\Vivita\Utility\obj\Debug\net6.0\Utility.AssemblyInfo.cs
+E:\Asp.net Projects\Vivita\Utility\obj\Debug\net6.0\Utility.csproj.CoreCompileInputs.cache
+E:\Asp.net Projects\Vivita\Utility\obj\Debug\net6.0\Utility.csproj.Up2Date
+E:\Asp.net Projects\Vivita\Utility\obj\Debug\net6.0\Utility.dll
+E:\Asp.net Projects\Vivita\Utility\obj\Debug\net6.0\refint\Utility.dll
+E:\Asp.net Projects\Vivita\Utility\obj\Debug\net6.0\Utility.pdb
+E:\Asp.net Projects\Vivita\Utility\obj\Debug\net6.0\ref\Utility.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Utility\bin\Debug\net6.0\Utility.deps.json
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Utility\bin\Debug\net6.0\Utility.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Utility\bin\Debug\net6.0\Utility.pdb
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Utility\bin\Debug\net6.0\Domain.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Utility\bin\Debug\net6.0\Domain.pdb
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Utility\obj\Debug\net6.0\Utility.csproj.AssemblyReference.cache
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Utility\obj\Debug\net6.0\Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Utility\obj\Debug\net6.0\Utility.AssemblyInfoInputs.cache
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Utility\obj\Debug\net6.0\Utility.AssemblyInfo.cs
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Utility\obj\Debug\net6.0\Utility.csproj.CoreCompileInputs.cache
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Utility\obj\Debug\net6.0\Utility.csproj.Up2Date
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Utility\obj\Debug\net6.0\Utility.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Utility\obj\Debug\net6.0\refint\Utility.dll
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Utility\obj\Debug\net6.0\Utility.pdb
+C:\Users\ah200\Downloads\Telegram Desktop\Vivita\Utility\obj\Debug\net6.0\ref\Utility.dll
+D:\IT\Project\Vivita\Utility\bin\Debug\net6.0\Utility.deps.json
+D:\IT\Project\Vivita\Utility\bin\Debug\net6.0\Utility.dll
+D:\IT\Project\Vivita\Utility\bin\Debug\net6.0\Utility.pdb
+D:\IT\Project\Vivita\Utility\bin\Debug\net6.0\Domain.dll
+D:\IT\Project\Vivita\Utility\bin\Debug\net6.0\Domain.pdb
+D:\IT\Project\Vivita\Utility\obj\Debug\net6.0\Utility.csproj.AssemblyReference.cache
+D:\IT\Project\Vivita\Utility\obj\Debug\net6.0\Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\Project\Vivita\Utility\obj\Debug\net6.0\Utility.AssemblyInfoInputs.cache
+D:\IT\Project\Vivita\Utility\obj\Debug\net6.0\Utility.AssemblyInfo.cs
+D:\IT\Project\Vivita\Utility\obj\Debug\net6.0\Utility.csproj.CoreCompileInputs.cache
+D:\IT\Project\Vivita\Utility\obj\Debug\net6.0\Utility.sourcelink.json
+D:\IT\Project\Vivita\Utility\obj\Debug\net6.0\Utility.csproj.Up2Date
+D:\IT\Project\Vivita\Utility\obj\Debug\net6.0\Utility.dll
+D:\IT\Project\Vivita\Utility\obj\Debug\net6.0\refint\Utility.dll
+D:\IT\Project\Vivita\Utility\obj\Debug\net6.0\Utility.pdb
+D:\IT\Project\Vivita\Utility\obj\Debug\net6.0\ref\Utility.dll

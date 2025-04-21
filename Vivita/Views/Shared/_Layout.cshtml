@@ -1,0 +1,340 @@
+﻿@using Microsoft.AspNetCore.Localization
+@inject IViewLocalizer Localizer
+@inject SignInManager<ApplicationUser> SignInManager
+@inject RoleManager<IdentityRole> RoleManager
+@inject UserManager<ApplicationUser> UserManager
+
+@{
+    var reqCulture = Context.Features.Get<IRequestCultureFeature>();
+    var culture = reqCulture.RequestCulture.Culture.Name;
+    bool isArabic = culture == "ar-SA";
+    var currentUser = await UserManager.GetUserAsync(User);
+}
+
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>VIVITA – @ViewData["Title"]</title>
+    <!-- Favicon Icon -->
+    <link rel="shortcut icon" href="~/images/logo.ico">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="~/css/bootstrap.min.css">
+    <!-- LOADING FONTS AND ICONS -->
+    <link rel="stylesheet" type="text/css" href="~/rev/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css">
+    <link rel="stylesheet" type="text/css" href="~/rev/fonts/font-awesome/css/font-awesome.css">
+    <!-- REVOLUTION STYLE SHEETS -->
+    <link rel="stylesheet" type="text/css" href="~/rev/css/rs6.css" asp-append-version="true">
+    <!-- Owl Carousel CSS -->
+    <link rel="stylesheet" href="~/css/owl.carousel.min.css">
+    <!-- Icons CSS -->
+    <link rel="stylesheet" href="~/fonts/font-awesome/css/all.min.css">
+    <link rel="stylesheet" href="~/fonts/flaticon/flaticon.css">
+    <link rel="stylesheet" href="~/css/ionicons.min.css">
+    <link rel="stylesheet" href="~/css/ionicons.min.css">
+    <!--  Style CSS -->
+    <link rel="stylesheet" href="~/css/style.css" asp-append-version="true">
+    <!--  Responsive CSS -->
+    <link rel="stylesheet" href="~/css/responsive.css">
+    <!-- bootstrap icons-->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="~/rev/sweet_alert2/sweetalert2.min.css">
+    <!-- Toaster -->
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" />
+    <!-- Aos Animation -->
+    <link rel="stylesheet" href="~/js/aos/aos.css">
+
+    @if (isArabic)
+    {
+        <!-- Cairo Font -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Cairo&display=swap" rel="stylesheet">
+        <link href="~/css/app.rtl.css" asp-append-version="true" rel="stylesheet">
+    }
+
+    @await RenderSectionAsync("Styles", required: false)
+</head>
+<body dir=@(isArabic? "rtl": "ltr")>
+
+    <!--============= header start ===============-->
+    <header id="pq-header" class="pq-header-default ">
+        <div class="pq-top-header">
+            <div class="container">
+                <div class="row flex-row-reverse">
+                    <div class="col-md-6 text-right">
+                        <div class="pq-header-social text-right">
+                            <ul>
+                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
+                                <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                                <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="pq-header-contact ">
+                            <ul>
+                                <li>
+                                    <a href="tel:+201245695224">
+                                        <i class="fas fa-phone"></i>
+                                        <span> +201245695224</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="mailto:vivita@gmail.com">
+                                        <i class="fas fa-envelope"></i><span>vivita@gmail.com</span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="pq-bottom-header pq-has-sticky">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <nav class="navbar navbar-expand-lg navbar-light">
+                            <a class="navbar-brand" asp-controller="Home" asp-action="Index">
+                                <img class="img-fluid logo" src="~/images/logo.png" alt="medicate">
+                            </a>
+                            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                                <div id="pq-menu-contain" class="pq-menu-contain">
+                                    <ul id="pq-main-menu" class="navbar-nav ml-auto">
+                                        <li class="menu-item @(Context.Request.Path.Value.ToLower() == "/" ? "current-menu-item" : "")">
+                                            <a asp-controller="Home" asp-action="Index">@Localizer["Home"]</a>
+                                        </li>
+                                        @if (User.IsInRole(Roles.Doctor))
+                                        {
+                                            <li class="menu-item @(Context.Request.Path.Value.ToLower() == "/model" ? "current-menu-item" : "")">
+                                                <a asp-controller="Model" asp-action="Index">@Localizer["DiseasesDetection"]</a>
+                                            </li>
+                                        }
+                                       
+                                        <li class="menu-item @(Context.Request.Path.Value.ToLower() == "/about" ? "current-menu-item" : "")">
+                                            <a asp-controller="About" asp-action="Index">@Localizer["About"]</a>
+                                        </li>
+                                        <li class="menu-item @(Context.Request.Path.Value.ToLower() == "/contact" ? "current-menu-item" : "")">
+                                            <a asp-controller="Contact" asp-action="Index">@Localizer["Contact"]</a>
+                                        </li>
+                                        @if (User.IsInRole(Roles.Admin))
+                                        {
+                                            <li class="menu-item">
+                                                <a asp-area="Admin" asp-controller="Home" asp-action="Index">
+                                                    @Localizer["Dashboard"]
+                                                </a>
+                                            </li>
+                                        }
+
+                                        @if (isArabic)
+                                        {
+                                            <li class="language">
+                                                <a class="lang" href="/Home/SetCulture?Lang=en-US&returnUrl=@(Context.Request.Path.Value)">
+                                                    En
+                                                </a>
+                                            </li>
+                                        }
+                                        else
+                                        {
+                                            <li class="language">
+                                                <a class="lang" href="/Home/SetCulture?Lang=ar-SA&returnUrl=@(Context.Request.Path.Value)">
+                                                    Ar
+                                                </a>
+                                            </li>
+                                        }
+
+                                        @if (currentUser is not null)
+                                        {
+                                            <li class="menu-item nav_profile">
+                                                <a class="img_cover" asp-controller="Profile" asp-action="Index">
+                                                    @if (currentUser.Photo != null)
+                                                    {
+                                                        <img src="data:image/*;base64,@(Convert.ToBase64String(currentUser.Photo))" alt="">
+                                                    }
+                                                    else
+                                                    {
+                                                        <img src="~/images/person.png" alt="">
+                                                    }
+                                                </a>
+
+                                                <ul class="sub-menu">
+                                                    <li class="menu-item">
+                                                        <a asp-controller="Profile" asp-action="Index">
+                                                            <div class="d-flex align-items-center">
+                                                                @if (currentUser.Photo != null)
+                                                                {
+                                                                    <div><img class="lazy" data-src="data:image/*;base64,@(Convert.ToBase64String(currentUser.Photo))" alt=""></div>
+                                                                }
+                                                                else
+                                                                {
+                                                                    <div><img src="~/images/person.png" alt=""></div>
+                                                                }
+                                                                <div class="info">
+                                                                    <div class="name">@currentUser.UserName</div>
+                                                                    <div class="email">@currentUser.Email</div>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </li>
+                                           
+                                                    <li class="menu-item">
+                                                        <a asp-controller="Account" asp-action="LogOut">@Localizer["Logout"] <i class="fas fa-sign-out-alt"></i></a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                        }
+                                        else
+                                        {
+                                            <li class="menu-item">
+                                                <a class="login" asp-controller="Account" asp-action="Login">@Localizer["Login"]</a>
+                                            </li>
+                                            <li class="menu-item">
+                                                <a class="signup" asp-controller="Account" asp-action="Register">@Localizer["Register"]</a>
+                                            </li>
+                                        }
+                                    </ul>
+                                </div>
+                            </div>
+                            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                                    aria-expanded="false" aria-label="Toggle navigation">
+                                <i class="fas fa-bars"></i>
+                            </button>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!--============== Header end =================-->
+    @RenderBody()
+
+    <!-- ================ Footer start  =================== -->
+
+    <footer id="pq-footer">
+        <div class="pq-footer-style-1">
+            <div class="pq-footer-top">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xl-4 col-md-6">
+                            <div class="pq-footer-block">
+                                <img src="~/images/logo.png" class="pq-footer-logo img-fluid" alt="medicate-footer-logo" data-aos-delay="100" data-aos-duration="800" data-aos="zoom-in-down">
+                                <p data-aos-delay="100" data-aos-duration="800" data-aos="zoom-in">
+                                    @Localizer["ContentFooter"]
+                                </p>
+
+                                <div class="pq-footer-social">
+                                    <ul>
+                                        <li data-aos-delay="100" data-aos-duration="800" data-aos="zoom-in"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                        <li data-aos-delay="100" data-aos-duration="800" data-aos="zoom-in"><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
+                                        <li data-aos-delay="100" data-aos-duration="800" data-aos="zoom-in"><a href="#"><i class="fab fa-instagram"></i></a></li>
+                                        <li data-aos-delay="100" data-aos-duration="800" data-aos="zoom-in"><a href="#"><i class="fab fa-pinterest"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-4  col-md-6">
+                            <div class="pq-footer-block">
+                                <h4 data-aos-delay="100" data-aos-duration="800" data-aos="zoom-in-down" class="footer-title">@Localizer["UsefulLinks"]</h4>
+                                <div class="menu-useful-links-container">
+                                    <ul id="menu-useful-links" class="menu">
+                                        <li data-aos-delay="100" data-aos-duration="800" data-aos="zoom-in"><a href="about-us.html">@Localizer["Home"]</a></li>
+                                        <li data-aos-delay="100" data-aos-duration="800" data-aos="zoom-in"><a href="contact-us.html">@Localizer["Contact"]</a></li>
+                                        <li data-aos-delay="100" data-aos-duration="800" data-aos="zoom-in"><a href="our-services.html">@Localizer["About"]</a></li>
+                                        <li data-aos-delay="100" data-aos-duration="800" data-aos="zoom-in"><a href="doctor-1.html">@Localizer["DiseasesDetection"]</a></li>
+                                        <li data-aos-delay="100" data-aos-duration="800" data-aos="zoom-in"><a href="home-visit.html">@Localizer["Register"]</a></li>
+                                        <li data-aos-delay="100" data-aos-duration="800" data-aos="zoom-in"><a href="faq.html">@Localizer["Login"]</a></li>
+                                        <li data-aos-delay="100" data-aos-duration="800" data-aos="zoom-in"><a href="make-appoinment.html">@Localizer["Logout"]</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-4  col-md-6">
+                            <div class="pq-footer-block">
+                                <h4 data-aos-delay="100" data-aos-duration="800" data-aos="zoom-in-down" class="footer-title">@Localizer["Contact"]</h4>
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        <ul class="pq-contact">
+                                            <li data-aos-delay="100" data-aos-duration="800" data-aos="zoom-in">
+                                                <a href="tel:+201245695224">
+                                                    <i class="fas fa-phone"></i>
+                                                    <span> +201245695224</span>
+                                                </a>
+                                            </li>
+                                            <li data-aos-delay="100" data-aos-duration="800" data-aos="zoom-in">
+                                                <a href="mailto:vivita@gmail.com">
+                                                    <i class="fas fa-envelope"></i><span>vivita@gmail.com</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="pq-copyright-footer">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12 text-center ">
+                            <span class="pq-copyright">
+                                @Localizer["Copyright"]
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!--Footer End-->
+    <!--Footer End-->
+    <!--Back To Top start-->
+    <div id="back-to-top">
+        <a class="topbtn" id="top" href="#top"> <i class="ion-ios-arrow-up"></i> </a>
+    </div>
+    <!--Back To Top End-->
+    <!--jquery js-->
+    <script src="~/js/jquery.min.js"></script>
+    <!--bootstrap js-->
+    <script src="~/js/bootstrap.min.js"></script>
+    <!--owl-carousal-->
+    <script src="~/js/owl.carousel.min.js"></script>
+    <!--isotope js-->
+    <script src="~/js/isotope.pkgd.min.js"></script>
+    <!--countTo js-->
+    <script src="~/js/jquery.countTo.min.js"></script>
+    <!-- Rev-Slider -->
+    <script src="~/rev/js/rbtools.min.js"></script>
+    <script src="~/rev/js/rs6.min.js"></script>
+    <script src="~/js/rev-custom.js"></script>
+    <!-- Aos Animation -->
+    <script src="~/js/aos/aos.js"></script>
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+
+    <script src="~/js/lazy-load.js"></script>
+
+    <script src="~/js/moment.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $(".moment-date").each(function (index, item) {
+                $(item).text(moment($(item).text()).fromNow());
+            });
+        });
+    </script>
+
+
+    <!--SweetAler2-->
+    <script src="~/rev/sweet_alert2/sweetalert2.min.js"></script>
+
+    <!--custom js-->
+    <script src="~/js/custom.js" asp-append-version="true"></script>
+
+    @RenderSectionAsync("Scripts", required: false);
+
+</body>
+</html>

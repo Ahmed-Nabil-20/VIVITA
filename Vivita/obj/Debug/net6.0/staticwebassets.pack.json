@@ -1,0 +1,1429 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Vivita.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Vivita.ud1opd8vbn.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\chart\\sparkline\\sparkline.js",
+      "PackagePath": "staticwebassets\\Admin\\chart\\sparkline\\sparkline.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\dist\\css\\adminlte.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\adminlte.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\dist\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\dist\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\dist\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\adminlte.min.css.map"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.components.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.components.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.components.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.components.css.map"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.components.min.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.components.min.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.components.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.components.min.css.map"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.core.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.core.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.core.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.core.css.map"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.core.min.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.core.min.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.core.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.core.min.css.map"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.extra-components.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.extra-components.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.extra-components.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.extra-components.css.map"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.extra-components.min.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.extra-components.min.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.extra-components.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.extra-components.min.css.map"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.light.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.light.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.light.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.light.css.map"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.light.min.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.light.min.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.light.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.light.min.css.map"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.pages.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.pages.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.pages.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.pages.css.map"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.pages.min.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.pages.min.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.pages.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.pages.min.css.map"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.plugins.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.plugins.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.plugins.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.plugins.css.map"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.plugins.min.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.plugins.min.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.plugins.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.plugins.min.css.map"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\dist\\img\\logo.ico",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\logo.ico"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\dist\\img\\logo_nav.png",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\logo_nav.png"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\dist\\img\\person.png",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\person.png"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\dist\\js\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\Admin\\dist\\js\\.eslintrc.json"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\dist\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\Admin\\dist\\js\\adminlte.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\dist\\js\\adminlte.js.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\js\\adminlte.js.map"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\dist\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\Admin\\dist\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\dist\\js\\adminlte.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\js\\adminlte.min.js.map"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\dist\\js\\demo.js",
+      "PackagePath": "staticwebassets\\Admin\\dist\\js\\demo.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\dist\\js\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\Admin\\dist\\js\\pages\\dashboard.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-autofill\\css\\autoFill.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-autofill\\css\\autoFill.bootstrap4.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-autofill\\css\\autoFill.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-autofill\\css\\autoFill.bootstrap4.min.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-autofill\\js\\autoFill.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-autofill\\js\\autoFill.bootstrap4.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-autofill\\js\\autoFill.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-autofill\\js\\autoFill.bootstrap4.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-autofill\\js\\dataTables.autoFill.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-autofill\\js\\dataTables.autoFill.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-autofill\\js\\dataTables.autoFill.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-autofill\\js\\dataTables.autoFill.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-bs4\\css\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-bs4\\css\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-bs4\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-bs4\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-bs4\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-bs4\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-bs4\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-bs4\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-buttons\\css\\buttons.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-buttons\\css\\buttons.bootstrap4.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-buttons\\css\\buttons.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-buttons\\css\\buttons.bootstrap4.min.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-buttons\\js\\buttons.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-buttons\\js\\buttons.bootstrap4.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-buttons\\js\\buttons.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-buttons\\js\\buttons.bootstrap4.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-buttons\\js\\buttons.colVis.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-buttons\\js\\buttons.colVis.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-buttons\\js\\buttons.colVis.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-buttons\\js\\buttons.colVis.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-buttons\\js\\buttons.flash.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-buttons\\js\\buttons.flash.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-buttons\\js\\buttons.flash.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-buttons\\js\\buttons.flash.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-buttons\\js\\buttons.html5.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-buttons\\js\\buttons.html5.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-buttons\\js\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-buttons\\js\\buttons.html5.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-buttons\\js\\buttons.print.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-buttons\\js\\buttons.print.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-buttons\\js\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-buttons\\js\\buttons.print.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-buttons\\js\\dataTables.buttons.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-buttons\\js\\dataTables.buttons.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-buttons\\js\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-buttons\\js\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-colreorder\\css\\colReorder.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-colreorder\\css\\colReorder.bootstrap4.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-colreorder\\css\\colReorder.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-colreorder\\css\\colReorder.bootstrap4.min.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-colreorder\\js\\colReorder.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-colreorder\\js\\colReorder.bootstrap4.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-colreorder\\js\\colReorder.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-colreorder\\js\\colReorder.bootstrap4.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-colreorder\\js\\dataTables.colReorder.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-colreorder\\js\\dataTables.colReorder.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-colreorder\\js\\dataTables.colReorder.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-colreorder\\js\\dataTables.colReorder.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-fixedcolumns\\css\\fixedColumns.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-fixedcolumns\\css\\fixedColumns.bootstrap4.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-fixedcolumns\\css\\fixedColumns.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-fixedcolumns\\css\\fixedColumns.bootstrap4.min.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-fixedcolumns\\js\\dataTables.fixedColumns.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-fixedcolumns\\js\\dataTables.fixedColumns.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-fixedcolumns\\js\\dataTables.fixedColumns.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-fixedcolumns\\js\\dataTables.fixedColumns.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-fixedcolumns\\js\\fixedColumns.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-fixedcolumns\\js\\fixedColumns.bootstrap4.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-fixedcolumns\\js\\fixedColumns.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-fixedcolumns\\js\\fixedColumns.bootstrap4.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-fixedheader\\css\\fixedHeader.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-fixedheader\\css\\fixedHeader.bootstrap4.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-fixedheader\\css\\fixedHeader.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-fixedheader\\css\\fixedHeader.bootstrap4.min.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-fixedheader\\js\\dataTables.fixedHeader.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-fixedheader\\js\\dataTables.fixedHeader.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-fixedheader\\js\\dataTables.fixedHeader.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-fixedheader\\js\\dataTables.fixedHeader.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-fixedheader\\js\\fixedHeader.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-fixedheader\\js\\fixedHeader.bootstrap4.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-fixedheader\\js\\fixedHeader.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-fixedheader\\js\\fixedHeader.bootstrap4.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-keytable\\css\\keyTable.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-keytable\\css\\keyTable.bootstrap4.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-keytable\\css\\keyTable.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-keytable\\css\\keyTable.bootstrap4.min.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-keytable\\js\\dataTables.keyTable.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-keytable\\js\\dataTables.keyTable.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-keytable\\js\\dataTables.keyTable.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-keytable\\js\\dataTables.keyTable.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-keytable\\js\\keyTable.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-keytable\\js\\keyTable.bootstrap4.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-keytable\\js\\keyTable.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-keytable\\js\\keyTable.bootstrap4.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-responsive\\css\\responsive.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-responsive\\css\\responsive.bootstrap4.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-responsive\\css\\responsive.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-responsive\\css\\responsive.bootstrap4.min.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-responsive\\js\\dataTables.responsive.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-responsive\\js\\dataTables.responsive.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-responsive\\js\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-responsive\\js\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-responsive\\js\\responsive.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-responsive\\js\\responsive.bootstrap4.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-responsive\\js\\responsive.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-responsive\\js\\responsive.bootstrap4.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-rowgroup\\css\\rowGroup.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-rowgroup\\css\\rowGroup.bootstrap4.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-rowgroup\\css\\rowGroup.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-rowgroup\\css\\rowGroup.bootstrap4.min.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-rowgroup\\js\\dataTables.rowGroup.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-rowgroup\\js\\dataTables.rowGroup.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-rowgroup\\js\\dataTables.rowGroup.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-rowgroup\\js\\dataTables.rowGroup.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-rowgroup\\js\\rowGroup.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-rowgroup\\js\\rowGroup.bootstrap4.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-rowgroup\\js\\rowGroup.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-rowgroup\\js\\rowGroup.bootstrap4.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-rowreorder\\css\\rowReorder.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-rowreorder\\css\\rowReorder.bootstrap4.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-rowreorder\\css\\rowReorder.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-rowreorder\\css\\rowReorder.bootstrap4.min.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-rowreorder\\js\\dataTables.rowReorder.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-rowreorder\\js\\dataTables.rowReorder.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-rowreorder\\js\\dataTables.rowReorder.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-rowreorder\\js\\dataTables.rowReorder.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-rowreorder\\js\\rowReorder.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-rowreorder\\js\\rowReorder.bootstrap4.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-rowreorder\\js\\rowReorder.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-rowreorder\\js\\rowReorder.bootstrap4.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-scroller\\css\\scroller.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-scroller\\css\\scroller.bootstrap4.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-scroller\\css\\scroller.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-scroller\\css\\scroller.bootstrap4.min.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-scroller\\js\\dataTables.scroller.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-scroller\\js\\dataTables.scroller.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-scroller\\js\\dataTables.scroller.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-scroller\\js\\dataTables.scroller.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-scroller\\js\\scroller.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-scroller\\js\\scroller.bootstrap4.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-scroller\\js\\scroller.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-scroller\\js\\scroller.bootstrap4.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-searchbuilder\\css\\searchBuilder.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-searchbuilder\\css\\searchBuilder.bootstrap4.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-searchbuilder\\css\\searchBuilder.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-searchbuilder\\css\\searchBuilder.bootstrap4.min.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-searchbuilder\\js\\dataTables.searchBuilder.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-searchbuilder\\js\\dataTables.searchBuilder.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-searchbuilder\\js\\dataTables.searchBuilder.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-searchbuilder\\js\\dataTables.searchBuilder.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-searchbuilder\\js\\searchBuilder.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-searchbuilder\\js\\searchBuilder.bootstrap4.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-searchbuilder\\js\\searchBuilder.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-searchbuilder\\js\\searchBuilder.bootstrap4.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-searchpanes\\css\\searchPanes.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-searchpanes\\css\\searchPanes.bootstrap4.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-searchpanes\\css\\searchPanes.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-searchpanes\\css\\searchPanes.bootstrap4.min.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-searchpanes\\js\\dataTables.searchPanes.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-searchpanes\\js\\dataTables.searchPanes.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-searchpanes\\js\\dataTables.searchPanes.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-searchpanes\\js\\dataTables.searchPanes.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-searchpanes\\js\\searchPanes.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-searchpanes\\js\\searchPanes.bootstrap4.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-searchpanes\\js\\searchPanes.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-searchpanes\\js\\searchPanes.bootstrap4.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-select\\css\\select.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-select\\css\\select.bootstrap4.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-select\\css\\select.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-select\\css\\select.bootstrap4.min.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-select\\js\\dataTables.select.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-select\\js\\dataTables.select.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-select\\js\\dataTables.select.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-select\\js\\dataTables.select.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-select\\js\\select.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-select\\js\\select.bootstrap4.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables-select\\js\\select.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-select\\js\\select.bootstrap4.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables\\jquery.dataTables.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\datatables\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\all.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\all.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\brands.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\brands.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\brands.min.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\fontawesome.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\regular.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\regular.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\regular.min.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\solid.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\solid.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\solid.min.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\v4-shims.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery\\jquery.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\jszip\\jszip.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jszip\\jszip.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\jszip\\jszip.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jszip\\jszip.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\pdfmake\\pdfmake.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\pdfmake\\pdfmake.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\pdfmake\\pdfmake.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\pdfmake\\pdfmake.js.map"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\pdfmake\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\pdfmake\\pdfmake.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\pdfmake\\pdfmake.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\pdfmake\\pdfmake.min.js.map"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Admin\\plugins\\pdfmake\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\pdfmake\\vfs_fonts.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Models\\06d0ef98-9a2e-4acd-af11-52a5a25888f1.jpeg",
+      "PackagePath": "staticwebassets\\Models\\06d0ef98-9a2e-4acd-af11-52a5a25888f1.jpeg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Models\\0cd76fa5-8a5b-4b26-9f3d-4a65c94a8dcb.jpeg",
+      "PackagePath": "staticwebassets\\Models\\0cd76fa5-8a5b-4b26-9f3d-4a65c94a8dcb.jpeg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Models\\182c3867-c477-4cfd-b607-c7d261657759.png",
+      "PackagePath": "staticwebassets\\Models\\182c3867-c477-4cfd-b607-c7d261657759.png"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Models\\1891c593-d797-4e1e-80bd-b9e353b8cb82.jpeg",
+      "PackagePath": "staticwebassets\\Models\\1891c593-d797-4e1e-80bd-b9e353b8cb82.jpeg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Models\\22abf39c-70c6-49db-a5af-344600e56de8.png",
+      "PackagePath": "staticwebassets\\Models\\22abf39c-70c6-49db-a5af-344600e56de8.png"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Models\\29970854-8c28-4d65-b9b3-7ee4233e2e0e.png",
+      "PackagePath": "staticwebassets\\Models\\29970854-8c28-4d65-b9b3-7ee4233e2e0e.png"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Models\\388e8b43-0ebf-4f1a-9869-81a59276d414.png",
+      "PackagePath": "staticwebassets\\Models\\388e8b43-0ebf-4f1a-9869-81a59276d414.png"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Models\\3f77e39c-5c9e-40ef-9520-27b34c24a40a.jpeg",
+      "PackagePath": "staticwebassets\\Models\\3f77e39c-5c9e-40ef-9520-27b34c24a40a.jpeg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Models\\4434703b-5be1-4e0e-bc8e-e8ffd87b090d.jpeg",
+      "PackagePath": "staticwebassets\\Models\\4434703b-5be1-4e0e-bc8e-e8ffd87b090d.jpeg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Models\\4b0c88ef-e68c-46d1-9a11-60b8a3e5ee12.jpeg",
+      "PackagePath": "staticwebassets\\Models\\4b0c88ef-e68c-46d1-9a11-60b8a3e5ee12.jpeg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Models\\508fb0b6-978f-43b3-9ad8-2ab723e10dbe.jpeg",
+      "PackagePath": "staticwebassets\\Models\\508fb0b6-978f-43b3-9ad8-2ab723e10dbe.jpeg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Models\\546fe97d-c790-4751-a759-c6641b738357.jpeg",
+      "PackagePath": "staticwebassets\\Models\\546fe97d-c790-4751-a759-c6641b738357.jpeg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Models\\61cdb4bb-ab48-4342-945c-a21072597fb9.png",
+      "PackagePath": "staticwebassets\\Models\\61cdb4bb-ab48-4342-945c-a21072597fb9.png"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Models\\6d124435-b2ce-41ba-917a-33cd6050935a.jpeg",
+      "PackagePath": "staticwebassets\\Models\\6d124435-b2ce-41ba-917a-33cd6050935a.jpeg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Models\\7352896f-14b8-4ff5-a091-86f44749b062.jpeg",
+      "PackagePath": "staticwebassets\\Models\\7352896f-14b8-4ff5-a091-86f44749b062.jpeg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Models\\7e647cb2-e5c8-4cfc-8208-978d740126a6.jpeg",
+      "PackagePath": "staticwebassets\\Models\\7e647cb2-e5c8-4cfc-8208-978d740126a6.jpeg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Models\\7e65a681-7e6f-4e1f-86fe-fae2fdd9f80f.png",
+      "PackagePath": "staticwebassets\\Models\\7e65a681-7e6f-4e1f-86fe-fae2fdd9f80f.png"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Models\\83986ac4-cf90-4469-84fc-1fe576134031.png",
+      "PackagePath": "staticwebassets\\Models\\83986ac4-cf90-4469-84fc-1fe576134031.png"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Models\\878ac4da-1b9b-4922-9f8b-bd650a93381f.png",
+      "PackagePath": "staticwebassets\\Models\\878ac4da-1b9b-4922-9f8b-bd650a93381f.png"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Models\\88115ef9-9a7c-4768-b22b-c8640cdb4379.jpeg",
+      "PackagePath": "staticwebassets\\Models\\88115ef9-9a7c-4768-b22b-c8640cdb4379.jpeg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Models\\8b1ff899-f21e-4e65-aa6f-a73229fdebc8.jpeg",
+      "PackagePath": "staticwebassets\\Models\\8b1ff899-f21e-4e65-aa6f-a73229fdebc8.jpeg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Models\\8c4bf143-418b-4431-b075-06ec60b4933d.jpeg",
+      "PackagePath": "staticwebassets\\Models\\8c4bf143-418b-4431-b075-06ec60b4933d.jpeg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Models\\92809263-7904-47ec-b59e-571379b36a45.jpeg",
+      "PackagePath": "staticwebassets\\Models\\92809263-7904-47ec-b59e-571379b36a45.jpeg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Models\\968ba3d7-a8a1-453a-a3ec-bfa468122a58.png",
+      "PackagePath": "staticwebassets\\Models\\968ba3d7-a8a1-453a-a3ec-bfa468122a58.png"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Models\\97247a72-464a-4089-8def-9126cdbb07c1.png",
+      "PackagePath": "staticwebassets\\Models\\97247a72-464a-4089-8def-9126cdbb07c1.png"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Models\\98043d73-db99-4303-9fc9-50d0e6e2c76d.jpeg",
+      "PackagePath": "staticwebassets\\Models\\98043d73-db99-4303-9fc9-50d0e6e2c76d.jpeg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Models\\9829b69e-2da2-47b9-8377-c248b1799dfc.jpeg",
+      "PackagePath": "staticwebassets\\Models\\9829b69e-2da2-47b9-8377-c248b1799dfc.jpeg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Models\\9907b434-1d4e-4f32-8540-bf87283810e5.jpeg",
+      "PackagePath": "staticwebassets\\Models\\9907b434-1d4e-4f32-8540-bf87283810e5.jpeg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Models\\aae683c1-c55f-45d4-aa52-84474898e5fb.jpeg",
+      "PackagePath": "staticwebassets\\Models\\aae683c1-c55f-45d4-aa52-84474898e5fb.jpeg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Models\\b6ae1117-3748-4cf3-a73f-43645266dc62.jpeg",
+      "PackagePath": "staticwebassets\\Models\\b6ae1117-3748-4cf3-a73f-43645266dc62.jpeg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Models\\bf4ddcfb-d10f-427e-bac5-fa50265fbbbc.png",
+      "PackagePath": "staticwebassets\\Models\\bf4ddcfb-d10f-427e-bac5-fa50265fbbbc.png"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Models\\c35d3303-35e1-4567-bf5e-1157979b7ef0.jpeg",
+      "PackagePath": "staticwebassets\\Models\\c35d3303-35e1-4567-bf5e-1157979b7ef0.jpeg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Models\\c62b1b5e-b0b5-4e74-b679-524a38c3593a.png",
+      "PackagePath": "staticwebassets\\Models\\c62b1b5e-b0b5-4e74-b679-524a38c3593a.png"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Models\\d4327bb0-89df-4dd9-b1f9-2a1d3eb3b4aa.png",
+      "PackagePath": "staticwebassets\\Models\\d4327bb0-89df-4dd9-b1f9-2a1d3eb3b4aa.png"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Models\\d432a3fd-3854-4175-8b25-da5f8e9792c7.jpeg",
+      "PackagePath": "staticwebassets\\Models\\d432a3fd-3854-4175-8b25-da5f8e9792c7.jpeg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Models\\e5c5a7ea-edea-469a-afeb-2e1c0e443c01.jpeg",
+      "PackagePath": "staticwebassets\\Models\\e5c5a7ea-edea-469a-afeb-2e1c0e443c01.jpeg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Models\\eae3fda5-6e43-4dc4-a1eb-10b6ef689d81.jpeg",
+      "PackagePath": "staticwebassets\\Models\\eae3fda5-6e43-4dc4-a1eb-10b6ef689d81.jpeg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Models\\ff7d62f3-122d-423e-8e39-24b78b8d4c34.jpeg",
+      "PackagePath": "staticwebassets\\Models\\ff7d62f3-122d-423e-8e39-24b78b8d4c34.jpeg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Uploads\\762c362b-2aec-4509-97bf-5aaa9b54ff3f.pdf",
+      "PackagePath": "staticwebassets\\Uploads\\762c362b-2aec-4509-97bf-5aaa9b54ff3f.pdf"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Uploads\\9dc5ca38-a255-4c64-8312-b06f0145d608.pdf",
+      "PackagePath": "staticwebassets\\Uploads\\9dc5ca38-a255-4c64-8312-b06f0145d608.pdf"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Uploads\\9dd6e6dd-2cf7-4a4f-9048-c099946d68a4.pdf",
+      "PackagePath": "staticwebassets\\Uploads\\9dd6e6dd-2cf7-4a4f-9048-c099946d68a4.pdf"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\Uploads\\b68922c1-120f-45c7-b7bd-1b2a26941258.pdf",
+      "PackagePath": "staticwebassets\\Uploads\\b68922c1-120f-45c7-b7bd-1b2a26941258.pdf"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\ajax\\ClinicImage.js",
+      "PackagePath": "staticwebassets\\ajax\\ClinicImage.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\ajax\\DeleteAdvice.js",
+      "PackagePath": "staticwebassets\\ajax\\DeleteAdvice.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\ajax\\DeleteComment.js",
+      "PackagePath": "staticwebassets\\ajax\\DeleteComment.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\ajax\\DeleteReplay.js",
+      "PackagePath": "staticwebassets\\ajax\\DeleteReplay.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\ajax\\Disease.js",
+      "PackagePath": "staticwebassets\\ajax\\Disease.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\ajax\\DiseaseType.js",
+      "PackagePath": "staticwebassets\\ajax\\DiseaseType.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\ajax\\Model.js",
+      "PackagePath": "staticwebassets\\ajax\\Model.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\ajax\\Specialization.js",
+      "PackagePath": "staticwebassets\\ajax\\Specialization.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\ajax\\User.js",
+      "PackagePath": "staticwebassets\\ajax\\User.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\css\\app.rtl.css",
+      "PackagePath": "staticwebassets\\css\\app.rtl.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\fonts\\flaticon\\flaticon.css",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\flaticon.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\fonts\\flaticon\\flaticon.eot",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\flaticon.eot"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\fonts\\flaticon\\flaticon.html",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\flaticon.html"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\fonts\\flaticon\\flaticon.js",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\flaticon.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\fonts\\flaticon\\flaticon.scss",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\flaticon.scss"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\fonts\\flaticon\\flaticon.svg",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\flaticon.svg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\fonts\\flaticon\\flaticon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\flaticon.ttf"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\fonts\\flaticon\\flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\flaticon.woff"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\fonts\\flaticon\\flaticon.woff2",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\flaticon.woff2"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\fonts\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\fonts\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\fonts\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\fonts\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\fonts\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\fonts\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\fonts\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\fonts\\ionicons\\ionicons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\ionicons.eot"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\fonts\\ionicons\\ionicons.js",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\ionicons.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\fonts\\ionicons\\ionicons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\ionicons.svg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\fonts\\ionicons\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\ionicons.ttf"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\fonts\\ionicons\\ionicons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\ionicons.woff"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\fonts\\ionicons\\ionicons.woff2",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\ionicons.woff2"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\fonts\\themify-icons\\themify-icons.css",
+      "PackagePath": "staticwebassets\\fonts\\themify-icons\\themify-icons.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\fonts\\themify-icons\\themify-icons.js",
+      "PackagePath": "staticwebassets\\fonts\\themify-icons\\themify-icons.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\fonts\\themify-icons\\themify.eot",
+      "PackagePath": "staticwebassets\\fonts\\themify-icons\\themify.eot"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\fonts\\themify-icons\\themify.svg",
+      "PackagePath": "staticwebassets\\fonts\\themify-icons\\themify.svg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\fonts\\themify-icons\\themify.ttf",
+      "PackagePath": "staticwebassets\\fonts\\themify-icons\\themify.ttf"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\fonts\\themify-icons\\themify.woff",
+      "PackagePath": "staticwebassets\\fonts\\themify-icons\\themify.woff"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\3.jpg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\images\\about.jpg",
+      "PackagePath": "staticwebassets\\images\\about.jpg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\images\\about\\bg.png",
+      "PackagePath": "staticwebassets\\images\\about\\bg.png"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\images\\about\\man.png",
+      "PackagePath": "staticwebassets\\images\\about\\man.png"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\images\\about\\woman.png",
+      "PackagePath": "staticwebassets\\images\\about\\woman.png"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\images\\advices\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\advices\\1.jpg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\images\\care\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\care\\1.jpg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\images\\care\\2.png",
+      "PackagePath": "staticwebassets\\images\\care\\2.png"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\images\\diseases\\Artery.png",
+      "PackagePath": "staticwebassets\\images\\diseases\\Artery.png"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\images\\diseases\\Asthma.png",
+      "PackagePath": "staticwebassets\\images\\diseases\\Asthma.png"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\images\\diseases\\COVID.png",
+      "PackagePath": "staticwebassets\\images\\diseases\\COVID.png"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\images\\diseases\\Chronic.png",
+      "PackagePath": "staticwebassets\\images\\diseases\\Chronic.png"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\images\\diseases\\Hypertension.png",
+      "PackagePath": "staticwebassets\\images\\diseases\\Hypertension.png"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\images\\diseases\\Lung Cancer.png",
+      "PackagePath": "staticwebassets\\images\\diseases\\Lung Cancer.png"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\images\\diseases\\Pneumonia.png",
+      "PackagePath": "staticwebassets\\images\\diseases\\Pneumonia.png"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\images\\diseases\\Tuberculosis.png",
+      "PackagePath": "staticwebassets\\images\\diseases\\Tuberculosis.png"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\images\\giphy.gif",
+      "PackagePath": "staticwebassets\\images\\giphy.gif"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\images\\health\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\1.jpg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\images\\health\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\2.jpg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\images\\login-bg.png",
+      "PackagePath": "staticwebassets\\images\\login-bg.png"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\images\\login_cover.jpg",
+      "PackagePath": "staticwebassets\\images\\login_cover.jpg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\images\\logo.ico",
+      "PackagePath": "staticwebassets\\images\\logo.ico"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\images\\medical science\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\medical science\\1.jpg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\images\\person.png",
+      "PackagePath": "staticwebassets\\images\\person.png"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\images\\service\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\service\\1.jpg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\js\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\js\\aos\\aos.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\js\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\js\\aos\\aos.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\js\\comment.js",
+      "PackagePath": "staticwebassets\\js\\comment.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\js\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\js\\jquery.countTo.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.countTo.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\js\\lazy-load.js",
+      "PackagePath": "staticwebassets\\js\\lazy-load.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\js\\login_script.js",
+      "PackagePath": "staticwebassets\\js\\login_script.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\js\\model.js",
+      "PackagePath": "staticwebassets\\js\\model.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\js\\moment.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\js\\moment.min.js.map",
+      "PackagePath": "staticwebassets\\js\\moment.min.js.map"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\js\\myAdvices.js",
+      "PackagePath": "staticwebassets\\js\\myAdvices.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\js\\profile.js",
+      "PackagePath": "staticwebassets\\js\\profile.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\js\\replay.js",
+      "PackagePath": "staticwebassets\\js\\replay.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\js\\rev-custom.js",
+      "PackagePath": "staticwebassets\\js\\rev-custom.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\model.onnx",
+      "PackagePath": "staticwebassets\\model.onnx"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\rev\\assets\\1-21.jpg",
+      "PackagePath": "staticwebassets\\rev\\assets\\1-21.jpg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\rev\\assets\\1-51.jpg",
+      "PackagePath": "staticwebassets\\rev\\assets\\1-51.jpg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\rev\\assets\\1-7.jpg",
+      "PackagePath": "staticwebassets\\rev\\assets\\1-7.jpg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\rev\\assets\\1..jpg",
+      "PackagePath": "staticwebassets\\rev\\assets\\1..jpg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\rev\\assets\\2-51.jpg",
+      "PackagePath": "staticwebassets\\rev\\assets\\2-51.jpg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\rev\\assets\\2-61.jpg",
+      "PackagePath": "staticwebassets\\rev\\assets\\2-61.jpg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\rev\\assets\\2-7.jpg",
+      "PackagePath": "staticwebassets\\rev\\assets\\2-7.jpg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\rev\\assets\\3-2.jpg",
+      "PackagePath": "staticwebassets\\rev\\assets\\3-2.jpg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\rev\\assets\\3-5.jpg",
+      "PackagePath": "staticwebassets\\rev\\assets\\3-5.jpg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\rev\\assets\\page-title4.jpg",
+      "PackagePath": "staticwebassets\\rev\\assets\\page-title4.jpg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\rev\\css\\rs6.css",
+      "PackagePath": "staticwebassets\\rev\\css\\rs6.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\rev\\fonts\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\rev\\fonts\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\rev\\fonts\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\rev\\fonts\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\rev\\fonts\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\rev\\fonts\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\rev\\fonts\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\rev\\fonts\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\rev\\fonts\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\rev\\fonts\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\rev\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\rev\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\rev\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\rev\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\rev\\fonts\\pe-icon-7-stroke\\css\\helper.css",
+      "PackagePath": "staticwebassets\\rev\\fonts\\pe-icon-7-stroke\\css\\helper.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\rev\\fonts\\pe-icon-7-stroke\\css\\pe-icon-7-stroke.css",
+      "PackagePath": "staticwebassets\\rev\\fonts\\pe-icon-7-stroke\\css\\pe-icon-7-stroke.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\rev\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.eot",
+      "PackagePath": "staticwebassets\\rev\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.eot"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\rev\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.svg",
+      "PackagePath": "staticwebassets\\rev\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.svg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\rev\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.ttf",
+      "PackagePath": "staticwebassets\\rev\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.ttf"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\rev\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.woff",
+      "PackagePath": "staticwebassets\\rev\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.woff"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\rev\\fonts\\revicons\\revicons.eot",
+      "PackagePath": "staticwebassets\\rev\\fonts\\revicons\\revicons.eot"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\rev\\fonts\\revicons\\revicons.svg",
+      "PackagePath": "staticwebassets\\rev\\fonts\\revicons\\revicons.svg"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\rev\\fonts\\revicons\\revicons.ttf",
+      "PackagePath": "staticwebassets\\rev\\fonts\\revicons\\revicons.ttf"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\rev\\fonts\\revicons\\revicons.woff",
+      "PackagePath": "staticwebassets\\rev\\fonts\\revicons\\revicons.woff"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\rev\\js\\rbtools.min.js",
+      "PackagePath": "staticwebassets\\rev\\js\\rbtools.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\rev\\js\\rs6.min.js",
+      "PackagePath": "staticwebassets\\rev\\js\\rs6.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\rev\\steppr\\bs-stepper.min.css",
+      "PackagePath": "staticwebassets\\rev\\steppr\\bs-stepper.min.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\rev\\steppr\\bs-stepper.min.css.map",
+      "PackagePath": "staticwebassets\\rev\\steppr\\bs-stepper.min.css.map"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\rev\\steppr\\bs-stepper.min.js",
+      "PackagePath": "staticwebassets\\rev\\steppr\\bs-stepper.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\rev\\steppr\\bs-stepper.min.js.map",
+      "PackagePath": "staticwebassets\\rev\\steppr\\bs-stepper.min.js.map"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\rev\\sweet_alert2\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\rev\\sweet_alert2\\sweetalert2.min.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\rev\\sweet_alert2\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\rev\\sweet_alert2\\sweetalert2.min.js"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\rev\\veno-box\\venobox.css",
+      "PackagePath": "staticwebassets\\rev\\veno-box\\venobox.css"
+    },
+    {
+      "Id": "D:\\IT\\Project\\Vivita\\Vivita\\wwwroot\\rev\\veno-box\\venobox.min.js",
+      "PackagePath": "staticwebassets\\rev\\veno-box\\venobox.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Vivita.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Vivita.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Vivita.props",
+      "PackagePath": "build\\Vivita.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Vivita.props",
+      "PackagePath": "buildMultiTargeting\\Vivita.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Vivita.props",
+      "PackagePath": "buildTransitive\\Vivita.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
